@@ -1,0 +1,1221 @@
+product,origin,lowest_price,highest_price,date
+agrest 1 kg,kraj,6.0,7.0,2021-07-01
+ananas dekoracyjny szt.,import,3.6,4.2,2021-07-01
+bakłażan 1 kg,import,4.0,4.4,2021-07-01
+bakłażan 1 kg,kraj,0.0,5.0,2021-07-01
+bataty 1 kg,import,8.0,9.0,2021-07-01
+bób 1 kg,import,6.5,8.0,2021-07-01
+botwinka pęczek,kraj,2.5,2.8,2021-07-01
+brokuły szt.,kraj,3.0,4.0,2021-07-01
+buraki czerwone 1 kg,kraj,2.0,4.0,2021-07-01
+buraki czerwone młode pęczek,kraj,2.0,3.5,2021-07-01
+cebula biała 1 kg,kraj,1.5,1.7,2021-07-01
+cebula biała 1 kg,import,1.5,2.0,2021-07-01
+cebula czerwona 1 kg,kraj,2.5,3.5,2021-07-01
+cebula czosnkowa 1 kg,kraj,2.0,3.5,2021-07-01
+cebula ze szczypiorem pęczek,kraj,2.0,2.5,2021-07-01
+chrzan 1 kg,kraj,7.0,9.0,2021-07-01
+cukinia 1 kg,kraj,2.4,3.0,2021-07-01
+cykoria 1 kg,kraj,6.0,9.6,2021-07-01
+czosnek 1 kg,import,10.0,13.0,2021-07-01
+fasolka szparagowa 1 kg,kraj,10.0,12.0,2021-07-01
+jabłka Empire 1 kg,kraj,2.0,3.0,2021-07-01
+jabłka Rubinstar 1 kg,kraj,1.0,1.66,2021-07-01
+jeżyny 1 kg,kraj,32.5,35.0,2021-07-01
+kabaczek 1 kg,kraj,6.0,7.0,2021-07-01
+kalafior szt.,kraj,4.0,6.0,2021-07-01
+kalarepa szt.,kraj,1.5,1.8,2021-07-01
+kapusta biała 1 kg,kraj,1.5,2.0,2021-07-01
+kapusta biała młoda szt.,kraj,2.5,4.0,2021-07-01
+kapusta czerwona 1 kg,kraj,2.5,3.5,2021-07-01
+kapusta kiszona 1 kg,kraj,4.0,7.0,2021-07-01
+kapusta pekińska 1 kg,kraj,3.0,4.0,2021-07-01
+koperek pęczek,kraj,1.0,1.2,2021-07-01
+marchew 1 kg,kraj,1.75,2.0,2021-07-01
+marchew 1 kg,import,2.5,3.0,2021-07-01
+marchew młoda pęczek,kraj,2.0,3.0,2021-07-01
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-01
+ogórek gruntowy 1 kg,kraj,3.0,4.0,2021-07-01
+ogórek kiszony 1 kg,kraj,7.0,8.5,2021-07-01
+ogórek kiszony małosolny 1 kg,kraj,9.0,11.0,2021-07-01
+ogórek szklarniowy krótki 1 kg,kraj,1.0,2.0,2021-07-01
+papryka czerwona 1 kg,import,8.3,13.0,2021-07-01
+papryka zielona 1 kg,kraj,5.0,7.0,2021-07-01
+papryka żółta 1 kg,import,8.3,13.0,2021-07-01
+pieczarki 1 kg,kraj,6.0,6.5,2021-07-01
+pietruszka korzeń 1 kg,kraj,10.0,12.0,2021-07-01
+pietruszka młoda pęczek,kraj,2.5,4.0,2021-07-01
+pomidor koktajlowy 1 kg,import,10.0,12.0,2021-07-01
+pomidor malinowy 1 kg,kraj,2.5,4.0,2021-07-01
+pomidor szklarniowy 1 kg,kraj,2.66,3.33,2021-07-01
+por 1 kg,kraj,4.0,6.0,2021-07-01
+por młody szt.,kraj,0.0,2.0,2021-07-01
+rabarbar 1 kg,kraj,3.0,4.0,2021-07-01
+rzodkiewka pęczek,kraj,1.2,1.6,2021-07-01
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-01
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-01
+sałata masłowa szt.,kraj,1.87,2.5,2021-07-01
+sałata mix 1 kg,import,20.0,25.0,2021-07-01
+seler 1 kg,kraj,3.0,4.0,2021-07-01
+seler młody pęczek,kraj,0.0,2.5,2021-07-01
+seler naciowy szt.,import,2.5,2.9,2021-07-01
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-01
+szparagi 1 kg,kraj,10.0,16.0,2021-07-01
+szpinak 1 kg,kraj,5.0,6.5,2021-07-01
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-01
+włoszczyzna młoda szt.,kraj,3.5,4.0,2021-07-01
+ziemniak 1 kg,import,1.0,1.4,2021-07-01
+ziemniak 1 kg,kraj,0.52,0.8,2021-07-01
+ziemniak młody 1 kg,kraj,1.0,1.2,2021-07-01
+ziemniak młody 1 kg,import,1.75,2.3,2021-07-01
+ananasy miodowe szt.,import,8.0,10.0,2021-07-01
+arbuz 1 kg,import,1.8,3.3,2021-07-01
+awokado 1 kg,import,2.0,4.37,2021-07-01
+banan 1 kg,import,4.5,5.31,2021-07-01
+borówka amerykańska 1 kg,kraj,36.0,44.0,2021-07-01
+borówka amerykańska 1 kg,import,28.0,35.0,2021-07-01
+brzoskwinia 1 kg,import,7.0,9.0,2021-07-01
+cytryny 1 kg,import,5.0,7.0,2021-07-01
+czereśnie 1 kg,kraj,6.0,17.0,2021-07-01
+czereśnie 1 kg,import,8.0,14.0,2021-07-01
+granat szt.,import,6.0,12.0,2021-07-01
+grapefruity 1 kg,import,6.0,15.0,2021-07-01
+gruszka 1 kg,import,5.0,9.5,2021-07-01
+gruszka konferencja 1 kg,kraj,3.3,4.75,2021-07-01
+jabłka 1 kg,import,3.75,6.0,2021-07-01
+jabłka alwa 1 kg,kraj,1.0,1.66,2021-07-01
+jabłka cortland 1 kg,kraj,2.0,2.5,2021-07-01
+jabłka gala 1 kg,kraj,1.33,2.0,2021-07-01
+jabłka gloster 1 kg,kraj,1.0,1.5,2021-07-01
+jabłka golden delicius 1 kg,kraj,1.33,2.0,2021-07-01
+jabłka jonagold 1 kg,kraj,1.0,1.66,2021-07-01
+jabłka jonagored 1 kg,kraj,1.0,1.66,2021-07-01
+jabłka ligol 1 kg,kraj,1.0,1.75,2021-07-01
+jabłka lobo 1 kg,kraj,1.66,2.3,2021-07-01
+jabłka reneta szara 1 kg,kraj,2.0,3.0,2021-07-01
+jabłka szampion 1 kg,kraj,1.0,1.66,2021-07-01
+kiwi 1 kg,import,9.0,16.0,2021-07-01
+maliny 1 kg,kraj,25.0,33.75,2021-07-01
+mandarynki 1 kg,import,6.0,12.0,2021-07-01
+mango szt.,import,2.0,12.0,2021-07-01
+melon szt.,import,5.0,9.0,2021-07-01
+morela 1 kg,import,7.5,11.0,2021-07-01
+nektarynka 1 kg,import,7.0,10.0,2021-07-01
+pomarańcze 1 kg,import,3.85,8.0,2021-07-01
+porzeczka czarna 1 kg,kraj,0.0,36.0,2021-07-01
+porzeczka czerwona 1 kg,kraj,36.0,40.0,2021-07-01
+śliwki 1 kg,import,5.0,8.5,2021-07-01
+truskawki 1 kg,kraj,4.0,8.0,2021-07-01
+winogrona białe 1 kg,import,9.0,12.0,2021-07-01
+winogrona ciemne 1 kg,import,9.0,12.0,2021-07-01
+agrest 1 kg,kraj,6.0,7.0,2021-07-02
+ananas dekoracyjny szt.,import,3.6,4.2,2021-07-02
+bakłażan 1 kg,import,4.0,4.5,2021-07-02
+bakłażan 1 kg,kraj,0.0,5.0,2021-07-02
+bataty 1 kg,import,8.0,9.0,2021-07-02
+bób 1 kg,kraj,6.5,7.5,2021-07-02
+botwinka pęczek,kraj,2.5,2.8,2021-07-02
+brokuły szt.,kraj,3.0,4.0,2021-07-02
+buraki czerwone 1 kg,kraj,2.0,3.0,2021-07-02
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-02
+cebula biała 1 kg,kraj,1.5,1.7,2021-07-02
+cebula biała 1 kg,import,1.5,2.0,2021-07-02
+cebula czerwona 1 kg,kraj,2.5,3.5,2021-07-02
+cebula czosnkowa 1 kg,kraj,2.0,3.5,2021-07-02
+cebula ze szczypiorem pęczek,kraj,1.5,2.0,2021-07-02
+chrzan 1 kg,kraj,7.0,9.0,2021-07-02
+cukinia 1 kg,kraj,2.4,3.0,2021-07-02
+cykoria 1 kg,kraj,6.0,9.6,2021-07-02
+czosnek 1 kg,import,10.0,13.0,2021-07-02
+fasolka szparagowa 1 kg,kraj,10.0,12.0,2021-07-02
+jabłka Empire 1 kg,kraj,2.0,3.0,2021-07-02
+jabłka Rubinstar 1 kg,kraj,1.0,1.66,2021-07-02
+jagody 1 kg,kraj,0.0,26.0,2021-07-02
+jeżyny 1 kg,kraj,32.5,35.0,2021-07-02
+kabaczek 1 kg,kraj,6.0,7.0,2021-07-02
+kalafior szt.,kraj,4.0,4.5,2021-07-02
+kalarepa szt.,kraj,1.2,1.5,2021-07-02
+kapusta biała 1 kg,kraj,1.5,2.0,2021-07-02
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-02
+kapusta czerwona 1 kg,kraj,2.5,3.5,2021-07-02
+kapusta kiszona 1 kg,kraj,4.0,7.0,2021-07-02
+kapusta pekińska 1 kg,kraj,3.0,4.0,2021-07-02
+koperek pęczek,kraj,1.0,1.3,2021-07-02
+marchew 1 kg,kraj,2.0,2.5,2021-07-02
+marchew 1 kg,import,2.3,2.8,2021-07-02
+marchew młoda pęczek,kraj,2.0,2.5,2021-07-02
+nać pietruszki pęczek,kraj,1.0,1.5,2021-07-02
+ogórek gruntowy 1 kg,kraj,3.0,4.0,2021-07-02
+ogórek kiszony 1 kg,kraj,7.0,8.5,2021-07-02
+ogórek kiszony małosolny 1 kg,kraj,9.0,11.0,2021-07-02
+ogórek szklarniowy krótki 1 kg,kraj,1.0,2.0,2021-07-02
+papryka czerwona 1 kg,import,8.3,13.0,2021-07-02
+papryka zielona 1 kg,kraj,5.0,7.0,2021-07-02
+papryka żółta 1 kg,import,8.3,13.0,2021-07-02
+pieczarki 1 kg,kraj,6.0,6.5,2021-07-02
+pietruszka korzeń 1 kg,kraj,6.0,7.0,2021-07-02
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-02
+pomidor koktajlowy 1 kg,import,10.0,12.0,2021-07-02
+pomidor malinowy 1 kg,kraj,2.5,4.16,2021-07-02
+pomidor szklarniowy 1 kg,kraj,2.66,3.5,2021-07-02
+por 1 kg,kraj,4.0,6.0,2021-07-02
+por 1 kg,import,5.0,6.5,2021-07-02
+por młody szt.,kraj,0.0,2.0,2021-07-02
+rabarbar 1 kg,kraj,3.0,4.0,2021-07-02
+rzodkiewka pęczek,kraj,1.2,1.5,2021-07-02
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-02
+sałata lodowa szt.,kraj,3.0,4.0,2021-07-02
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-02
+sałata mix 1 kg,import,20.0,25.0,2021-07-02
+seler 1 kg,kraj,2.0,3.0,2021-07-02
+seler młody szt.,kraj,1.85,2.5,2021-07-02
+seler naciowy szt.,import,2.5,2.9,2021-07-02
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-02
+szparagi 1 kg,kraj,12.0,16.0,2021-07-02
+szpinak 1 kg,kraj,5.0,6.5,2021-07-02
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-02
+włoszczyzna młoda szt.,kraj,3.5,4.5,2021-07-02
+ziemniak 1 kg,kraj,0.52,0.8,2021-07-02
+ziemniak 1 kg,import,1.0,1.4,2021-07-02
+ziemniak młody 1 kg,import,1.75,2.3,2021-07-02
+ziemniak młody 1 kg,kraj,1.0,1.2,2021-07-02
+ananasy miodowe szt.,import,8.0,10.0,2021-07-02
+arbuz 1 kg,import,1.8,3.3,2021-07-02
+awokado szt.,import,2.0,4.37,2021-07-02
+banan 1 kg,import,4.5,5.31,2021-07-02
+borówka amerykańska 1 kg,kraj,36.0,44.0,2021-07-02
+borówka amerykańska 1 kg,import,28.0,35.0,2021-07-02
+brzoskwinia 1 kg,import,7.0,9.0,2021-07-02
+cytryny 1 kg,import,5.0,7.0,2021-07-02
+czereśnie 1 kg,import,10.0,15.0,2021-07-02
+czereśnie 1 kg,kraj,6.0,17.0,2021-07-02
+granat szt.,import,6.0,12.0,2021-07-02
+grapefruity 1 kg,import,6.0,15.0,2021-07-02
+gruszka 1 kg,import,5.0,9.5,2021-07-02
+gruszka konferencja 1 kg,kraj,3.3,4.75,2021-07-02
+jabłka 1 kg,import,3.75,6.0,2021-07-02
+jabłka alwa 1 kg,kraj,1.0,1.66,2021-07-02
+jabłka cortland 1 kg,kraj,2.0,2.5,2021-07-02
+jabłka gala 1 kg,kraj,1.33,2.0,2021-07-02
+jabłka gloster 1 kg,kraj,1.0,1.5,2021-07-02
+jabłka golden delicius 1 kg,kraj,1.33,2.0,2021-07-02
+jabłka jonagold 1 kg,kraj,1.0,1.66,2021-07-02
+jabłka jonagored 1 kg,kraj,1.0,1.66,2021-07-02
+jabłka ligol 1 kg,kraj,1.0,1.75,2021-07-02
+jabłka lobo 1 kg,kraj,1.66,2.3,2021-07-02
+jabłka reneta szara 1 kg,kraj,2.0,3.0,2021-07-02
+jabłka szampion 1 kg,kraj,1.0,1.66,2021-07-02
+kiwi 1 kg,import,9.0,16.0,2021-07-02
+maliny 1 kg,kraj,24.0,36.0,2021-07-02
+mandarynki 1 kg,import,6.0,12.0,2021-07-02
+mango szt.,import,2.0,12.0,2021-07-02
+melon szt.,import,5.0,9.0,2021-07-02
+morela 1 kg,import,7.5,11.0,2021-07-02
+nektarynka 1 kg,import,7.0,10.0,2021-07-02
+pomarańcze 1 kg,import,3.85,8.0,2021-07-02
+porzeczka czarna 1 kg,kraj,0.0,36.0,2021-07-02
+porzeczka czerwona 1 kg,kraj,36.0,40.0,2021-07-02
+śliwki 1 kg,import,5.0,8.5,2021-07-02
+truskawki 1 kg,kraj,4.0,10.0,2021-07-02
+winogrona białe 1 kg,import,9.0,12.0,2021-07-02
+winogrona ciemne 1 kg,import,9.0,12.0,2021-07-02
+agrest kg,kraj,6.0,7.0,2021-07-05
+ananas dekoracyjny szt.,import,3.6,4.2,2021-07-05
+bakłażan kg,kraj,5.0,5.0,2021-07-05
+bataty kg,kraj,8.0,9.0,2021-07-05
+bób kg,kraj,6.5,7.5,2021-07-05
+botwinka pęczek,kraj,2.5,2.8,2021-07-05
+brokuły szt.,kraj,3.0,4.0,2021-07-05
+buraki czerwone kg,kraj,2.0,3.0,2021-07-05
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-05
+cebula biała kg,kraj,1.5,1.7,2021-07-05
+cebula czerwona kg,kraj,2.5,3.5,2021-07-05
+cebula czosnkowa kg,kraj,2.0,3.5,2021-07-05
+cebula dymka biała pęczek,kraj,1.5,2.0,2021-07-05
+cebula ze szczypiorem pęczek,kraj,1.5,2.0,2021-07-05
+chrzan kg,kraj,7.0,9.0,2021-07-05
+cukinia kg,kraj,2.4,3.0,2021-07-05
+cykoria kg,kraj,6.0,9.6,2021-07-05
+czosnek kg,import,10.0,13.0,2021-07-05
+fasolka szparagowa kg,kraj,10.0,12.0,2021-07-05
+jabłka Empire kg,kraj,2.0,3.0,2021-07-05
+jabłka Rubinstar kg,kraj,1.0,1.16,2021-07-05
+jagody kg,kraj,26.0,26.0,2021-07-05
+jeżyny kg,kraj,32.5,35.0,2021-07-05
+kabaczek kg,kraj,6.0,7.0,2021-07-05
+kalafior szt.,kraj,4.0,4.5,2021-07-05
+kalarepa szt.,kraj,1.2,1.5,2021-07-05
+kapusta biała kg,kraj,1.5,2.0,2021-07-05
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-05
+kapusta czerwona kg,kraj,2.5,3.5,2021-07-05
+kapusta kiszona kg,kraj,4.0,7.0,2021-07-05
+kapusta pekińska kg,kraj,3.0,4.0,2021-07-05
+koperek pęczek,kraj,1.0,1.3,2021-07-05
+marchew kg,kraj,2.0,2.5,2021-07-05
+marchew młoda pęczek,kraj,2.0,2.5,2021-07-05
+nać pietruszki pęczek,kraj,1.0,1.5,2021-07-05
+ogórek gruntowy kg,kraj,3.0,4.0,2021-07-05
+ogórek kiszony kg,kraj,7.0,8.5,2021-07-05
+ogórek kiszony małosolny kg,kraj,9.0,11.0,2021-07-05
+ogórek szklarniowy krótki kg,kraj,1.0,2.0,2021-07-05
+papryka zielona kg,kraj,5.0,7.0,2021-07-05
+pieczarki kg,kraj,6.0,6.5,2021-07-05
+pietruszka korzeń kg,kraj,6.0,7.0,2021-07-05
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-05
+pomidor koktajlowy kg,kraj,2.66,3.5,2021-07-05
+pomidor malinowy kg,kraj,2.5,4.16,2021-07-05
+por kg,kraj,4.0,6.0,2021-07-05
+por młody szt.,kraj,2.0,2.0,2021-07-05
+rabarbar kg,kraj,3.0,4.0,2021-07-05
+rzodkiewka pęczek,kraj,1.2,1.5,2021-07-05
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-05
+sałata lodowa szt.,kraj,3.0,4.0,2021-07-05
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-05
+seler kg,kraj,2.0,3.0,2021-07-05
+seler młody pęczek,kraj,2.5,2.5,2021-07-05
+seler naciowy pęczek,kraj,1.85,2.5,2021-07-05
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-05
+szparagi kg,kraj,12.0,16.0,2021-07-05
+szpinak kg,kraj,5.0,6.5,2021-07-05
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-05
+włoszczyzna młoda szt.,kraj,3.5,4.5,2021-07-05
+ziemniak młody kg,kraj,1.0,1.2,2021-07-05
+ananasy miodowe szt.,import,8.0,10.0,2021-07-05
+arbuz kg,import,1.8,3.3,2021-07-05
+awokado szt.,import,2.0,4.37,2021-07-05
+banan kg,import,4.5,5.31,2021-07-05
+borówka amerykańska kg,import,28.0,35.0,2021-07-05
+brzoskwinia kg,import,7.0,9.0,2021-07-05
+cytryny kg,import,5.0,7.0,2021-07-05
+czereśnie kg,import,10.0,15.0,2021-07-05
+granat szt.,import,6.0,12.0,2021-07-05
+grapefruity kg,import,6.0,15.0,2021-07-05
+gruszka kg,import,5.0,9.5,2021-07-05
+gruszka konferencja kg,kraj,3.3,4.75,2021-07-05
+jabłka kg,import,3.75,6.0,2021-07-05
+jabłka alwa kg,kraj,1.0,1.66,2021-07-05
+jabłka cortland kg,kraj,2.0,2.5,2021-07-05
+jabłka gala kg,kraj,1.33,2.0,2021-07-05
+jabłka gloster kg,kraj,1.0,1.5,2021-07-05
+jabłka golden delicius kg,kraj,1.33,2.0,2021-07-05
+jabłka jonagold kg,kraj,1.0,1.66,2021-07-05
+jabłka jonagored kg,kraj,1.0,1.66,2021-07-05
+jabłka ligol kg,kraj,1.0,1.75,2021-07-05
+jabłka lobo kg,kraj,1.66,2.3,2021-07-05
+jabłka reneta szara kg,kraj,2.0,3.0,2021-07-05
+jabłka szampion kg,kraj,1.0,1.66,2021-07-05
+kiwi kg,import,9.0,16.0,2021-07-05
+maliny kg,kraj,24.0,36.0,2021-07-05
+mandarynki kg,import,6.0,12.0,2021-07-05
+mango szt.,import,2.0,12.0,2021-07-05
+melon szt.,import,5.0,9.0,2021-07-05
+morela kg,import,7.5,11.0,2021-07-05
+nektarynka kg,import,7.0,10.0,2021-07-05
+pomarańcze kg,kraj,3.85,8.0,2021-07-05
+porzeczka czarna kg,kraj,36.0,36.0,2021-07-05
+porzeczka czerwona kg,kraj,36.0,40.0,2021-07-05
+śliwki kg,import,5.0,8.5,2021-07-05
+truskawki kg,kraj,4.0,10.0,2021-07-05
+winogrona białe kg,import,9.0,12.0,2021-07-05
+winogrona ciemne kg,import,9.0,12.0,2021-07-05
+agrest kg,kraj,7.0,14.0,2021-07-06
+ananas dekoracyjny szt.,import,3.6,10.0,2021-07-06
+bakłażan kg,kraj,4.0,5.5,2021-07-06
+bataty kg,import,8.0,9.0,2021-07-06
+bób kg,kraj,6.0,8.0,2021-07-06
+botwinka pęczek,kraj,2.0,2.5,2021-07-06
+brokuły szt.,kraj,2.0,2.5,2021-07-06
+buraki czerwone kg,kraj,2.0,2.5,2021-07-06
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-06
+cebula biała kg,kraj,1.5,1.7,2021-07-06
+cebula czerwona kg,kraj,2.5,3.5,2021-07-06
+cebula czosnkowa kg,kraj,2.0,3.5,2021-07-06
+cebula dymka biała kg,kraj,1.5,2.5,2021-07-06
+cebula ze szczypiorem pęczek,kraj,1.5,2.5,2021-07-06
+chrzan kg,kraj,7.0,9.0,2021-07-06
+cukinia kg,kraj,1.9,2.1,2021-07-06
+cykoria kg,kraj,6.0,9.6,2021-07-06
+czosnek kg,import,10.0,13.0,2021-07-06
+fasolka szparagowa kg,kraj,9.0,12.0,2021-07-06
+jabłka Empire kg,kraj,2.0,3.0,2021-07-06
+jabłka Rubinstar kg,kraj,1.0,1.66,2021-07-06
+jagody kg,kraj,20.0,23.0,2021-07-06
+kabaczek kg,kraj,1.75,2.3,2021-07-06
+kalafior kg,kraj,1.75,2.5,2021-07-06
+kalarepa szt.,kraj,1.5,1.8,2021-07-06
+kapusta biała kg,kraj,1.5,2.0,2021-07-06
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-06
+kapusta czerwona kg,kraj,2.5,3.5,2021-07-06
+kapusta kiszona kg,kraj,4.0,7.0,2021-07-06
+kapusta pekińska kg,kraj,2.5,3.5,2021-07-06
+koperek pęczek,kraj,1.0,1.35,2021-07-06
+marchew kg,kraj,1.8,2.0,2021-07-06
+marchew młoda pęczek,kraj,2.5,3.0,2021-07-06
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-06
+ogórek gruntowy kg,kraj,3.0,4.0,2021-07-06
+ogórek kiszony kg,kraj,7.0,8.5,2021-07-06
+ogórek kiszony małosolny kg,kraj,7.0,8.5,2021-07-06
+ogórek szklarniowy krótki kg,kraj,1.75,2.2,2021-07-06
+papryka czerwona kg,import,9.5,13.0,2021-07-06
+papryka zielona kg,kraj,4.0,5.0,2021-07-06
+papryka żółta kg,import,9.5,13.0,2021-07-06
+pieczarki kg,kraj,6.0,6.5,2021-07-06
+pietruszka korzeń kg,kraj,6.0,10.0,2021-07-06
+pietruszka młoda kg,kraj,3.0,4.0,2021-07-06
+pomidor koktajlowy kg,kraj,3.0,3.75,2021-07-06
+pomidor malinowy kg,kraj,2.5,4.0,2021-07-06
+por kg,kraj,4.0,6.0,2021-07-06
+por młody szt.,kraj,1.5,2.0,2021-07-06
+rabarbar kg,kraj,3.0,4.0,2021-07-06
+rzodkiewka pęczek,kraj,1.0,1.5,2021-07-06
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-06
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-06
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-06
+seler kg,kraj,2.5,4.0,2021-07-06
+seler młody szt.,kraj,1.85,2.5,2021-07-06
+seler naciowy szt.,kraj,2.5,3.5,2021-07-06
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-06
+szparagi kg,kraj,18.0,22.0,2021-07-06
+szpinak kg,kraj,7.0,9.0,2021-07-06
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-06
+włoszczyzna młoda szt.,kraj,3.5,3.5,2021-07-06
+ziemniak młody kg,kraj,1.0,1.25,2021-07-06
+ananasy miodowe szt.,import,8.0,10.0,2021-07-06
+arbuz kg,kraj,1.8,2.5,2021-07-06
+awokado szt.,import,2.0,4.37,2021-07-06
+banan kg,import,4.5,5.31,2021-07-06
+borówka amerykańska kg,import,28.0,35.0,2021-07-06
+brzoskwinia kg,import,7.0,9.0,2021-07-06
+cytryny kg,import,5.0,7.0,2021-07-06
+czereśnie kg,kraj,3.5,7.5,2021-07-06
+granat szt.,import,6.0,12.0,2021-07-06
+grapefruity kg,import,6.0,15.0,2021-07-06
+gruszka kg,import,5.0,9.5,2021-07-06
+gruszka konferencja kg,kraj,3.3,4.75,2021-07-06
+jabłka alwa kg,kraj,1.0,1.66,2021-07-06
+jabłka cortland kg,kraj,2.0,2.5,2021-07-06
+jabłka gala kg,kraj,1.33,2.0,2021-07-06
+jabłka gloster kg,kraj,1.0,1.5,2021-07-06
+jabłka golden delicius kg,kraj,1.33,2.0,2021-07-06
+jabłka jonagold kg,kraj,1.0,1.66,2021-07-06
+jabłka jonagored kg,kraj,1.0,1.66,2021-07-06
+jabłka ligol kg,kraj,1.0,1.75,2021-07-06
+jabłka lobo kg,kraj,1.66,2.3,2021-07-06
+jabłka reneta szara kg,kraj,2.0,3.0,2021-07-06
+jabłka szampion kg,kraj,1.0,1.66,2021-07-06
+kiwi kg,import,9.0,16.0,2021-07-06
+maliny kg,kraj,8.0,15.0,2021-07-06
+mandarynki kg,import,6.0,12.0,2021-07-06
+mango szt.,import,2.0,12.0,2021-07-06
+melon szt.,import,5.0,9.0,2021-07-06
+morela kg,import,7.5,11.0,2021-07-06
+nektarynka kg,import,7.0,10.0,2021-07-06
+pomarańcze kg,import,3.85,8.0,2021-07-06
+porzeczka czarna kg,kraj,15.0,18.0,2021-07-06
+porzeczka czerwona kg,kraj,7.0,9.0,2021-07-06
+śliwki kg,import,5.0,8.5,2021-07-06
+truskawki kg,kraj,3.0,7.0,2021-07-06
+winogrona białe kg,import,9.0,12.0,2021-07-06
+winogrona ciemne kg,import,9.0,12.0,2021-07-06
+wiśnia kg,kraj,10.0,12.0,2021-07-06
+agrest kg,kraj,5.0,14.0,2021-07-07
+ananas dekoracyjny szt.,import,3.6,4.2,2021-07-07
+bakłażan kg,kraj,4.0,5.5,2021-07-07
+bataty kg,import,7.0,8.0,2021-07-07
+bób kg,kraj,5.5,7.0,2021-07-07
+botwinka pęczek,kraj,2.0,2.5,2021-07-07
+brokuły szt.,kraj,2.0,2.5,2021-07-07
+buraki czerwone kg,kraj,1.4,1.85,2021-07-07
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-07
+cebula biała kg,kraj,1.2,1.5,2021-07-07
+cebula czerwona kg,kraj,2.5,3.5,2021-07-07
+cebula czosnkowa kg,kraj,2.0,3.5,2021-07-07
+cebula ze szczypiorem pęczek,kraj,1.5,2.5,2021-07-07
+chrzan kg,kraj,6.0,8.0,2021-07-07
+cukinia kg,kraj,1.3,2.3,2021-07-07
+cykoria kg,kraj,6.0,9.6,2021-07-07
+czosnek kg,import,10.0,13.0,2021-07-07
+fasolka szparagowa kg,kraj,7.0,9.0,2021-07-07
+jabłka Empire kg,kraj,2.0,3.0,2021-07-07
+jabłka Rubinstar kg,kraj,1.0,1.66,2021-07-07
+jagody kg,kraj,20.0,23.0,2021-07-07
+kabaczek kg,kraj,1.25,2.0,2021-07-07
+kalafior szt.,kraj,1.75,2.5,2021-07-07
+kalarepa szt.,kraj,1.5,1.8,2021-07-07
+kapusta biała kg,kraj,1.0,1.75,2021-07-07
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-07
+kapusta czerwona kg,kraj,1.85,3.0,2021-07-07
+kapusta kiszona kg,kraj,4.0,7.0,2021-07-07
+kapusta pekińska kg,kraj,2.85,3.75,2021-07-07
+koperek pęczek,kraj,1.0,1.35,2021-07-07
+marchew kg,kraj,1.7,2.0,2021-07-07
+marchew młoda pęczek,kraj,2.0,2.75,2021-07-07
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-07
+ogórek gruntowy kg,kraj,2.0,4.0,2021-07-07
+ogórek kiszony kg,kraj,7.0,8.5,2021-07-07
+ogórek kiszony małosolny kg,kraj,7.0,10.0,2021-07-07
+ogórek szklarniowy krótki kg,kraj,2.0,2.75,2021-07-07
+papryka czerwona kg,import,9.5,13.0,2021-07-07
+papryka zielona kg,kraj,4.0,5.0,2021-07-07
+papryka żółta kg,import,9.5,13.0,2021-07-07
+pieczarki kg,kraj,6.0,6.5,2021-07-07
+pietruszka korzeń kg,kraj,6.0,10.0,2021-07-07
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-07
+pomidor koktajlowy kg,import,8.0,10.0,2021-07-07
+pomidor malinowy kg,kraj,3.0,4.0,2021-07-07
+por kg,import,5.0,6.5,2021-07-07
+por młody szt.,kraj,1.2,2.0,2021-07-07
+rzodkiewka pęczek,kraj,1.0,1.75,2021-07-07
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-07
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-07
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-07
+seler kg,kraj,2.5,4.0,2021-07-07
+seler młody szt.,kraj,1.85,2.5,2021-07-07
+seler naciowy szt.,kraj,2.5,3.5,2021-07-07
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-07
+szparagi kg,kraj,18.0,22.0,2021-07-07
+szpinak kg,kraj,7.0,9.0,2021-07-07
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-07
+włoszczyzna młoda szt.,kraj,3.5,3.5,2021-07-07
+ziemniak młody kg,kraj,1.0,1.25,2021-07-07
+ananasy miodowe szt.,import,8.0,10.0,2021-07-07
+arbuz kg,import,1.8,2.5,2021-07-07
+awokado szt.,import,2.0,4.37,2021-07-07
+banan kg,import,4.5,5.31,2021-07-07
+borówka amerykańska kg,kraj,25.0,35.0,2021-07-07
+brzoskwinia kg,import,7.0,9.0,2021-07-07
+cytryny kg,import,5.0,7.0,2021-07-07
+czereśnie kg,kraj,3.0,6.5,2021-07-07
+granat szt.,import,6.0,12.0,2021-07-07
+grapefruity kg,import,6.0,15.0,2021-07-07
+gruszka kg,import,5.0,9.5,2021-07-07
+gruszka konferencja kg,kraj,3.3,4.75,2021-07-07
+jabłka alwa kg,kraj,1.0,1.66,2021-07-07
+jabłka cortland kg,kraj,2.0,2.5,2021-07-07
+jabłka gala kg,kraj,1.33,2.0,2021-07-07
+jabłka gloster kg,kraj,1.0,1.5,2021-07-07
+jabłka golden delicius kg,kraj,1.33,2.0,2021-07-07
+jabłka jonagold kg,kraj,1.0,1.66,2021-07-07
+jabłka jonagored kg,kraj,1.0,1.66,2021-07-07
+jabłka ligol kg,kraj,1.0,1.75,2021-07-07
+jabłka lobo kg,kraj,1.66,2.3,2021-07-07
+jabłka reneta szara kg,kraj,2.0,3.0,2021-07-07
+jabłka szampion kg,kraj,1.0,1.66,2021-07-07
+kiwi kg,import,9.0,16.0,2021-07-07
+maliny kg,kraj,9.0,16.0,2021-07-07
+mandarynki kg,kraj,6.0,12.0,2021-07-07
+mango szt.,import,2.0,12.0,2021-07-07
+melon szt.,import,5.0,9.0,2021-07-07
+morela kg,kraj,8.0,8.0,2021-07-07
+nektarynka kg,import,7.0,10.0,2021-07-07
+pomarańcze kg,import,3.85,8.0,2021-07-07
+porzeczka czarna kg,kraj,15.0,18.0,2021-07-07
+porzeczka czerwona kg,kraj,5.0,9.0,2021-07-07
+śliwki kg,import,5.0,8.5,2021-07-07
+truskawki kg,kraj,4.0,8.0,2021-07-07
+winogrona białe kg,import,9.0,12.0,2021-07-07
+winogrona ciemne kg,import,9.0,12.0,2021-07-07
+wiśnia kg,kraj,10.0,12.0,2021-07-07
+agrest kg,kraj,5.0,14.0,2021-07-08
+ananas dekoracyjny szt.,import,3.6,4.2,2021-07-08
+bakłażan kg,kraj,4.0,6.3,2021-07-08
+bataty kg,import,7.0,8.0,2021-07-08
+bób kg,kraj,5.5,7.0,2021-07-08
+botwinka pęczek,kraj,2.0,2.5,2021-07-08
+brokuły szt.,kraj,2.0,2.5,2021-07-08
+buraki czerwone kg,kraj,1.4,1.85,2021-07-08
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-08
+cebula biała kg,kraj,1.2,1.5,2021-07-08
+cebula czerwona kg,kraj,2.5,3.5,2021-07-08
+cebula czosnkowa kg,kraj,2.5,3.5,2021-07-08
+cebula ze szczypiorem pęczek,kraj,1.5,2.5,2021-07-08
+chrzan kg,kraj,6.0,8.0,2021-07-08
+cukinia kg,kraj,1.3,2.3,2021-07-08
+cykoria kg,kraj,6.0,9.6,2021-07-08
+czosnek kg,import,10.0,13.0,2021-07-08
+fasolka szparagowa kg,kraj,5.0,7.0,2021-07-08
+jabłka Empire kg,kraj,2.0,3.0,2021-07-08
+jabłka Rubinstar kg,kraj,1.0,1.66,2021-07-08
+jagody kg,kraj,20.0,23.0,2021-07-08
+kabaczek kg,kraj,1.25,2.0,2021-07-08
+kalafior szt.,kraj,1.75,3.0,2021-07-08
+kalarepa szt.,kraj,1.5,1.8,2021-07-08
+kapusta biała kg,kraj,0.85,1.5,2021-07-08
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-08
+kapusta czerwona kg,kraj,1.85,3.0,2021-07-08
+kapusta kiszona kg,kraj,4.5,6.0,2021-07-08
+kapusta pekińska kg,kraj,2.85,3.75,2021-07-08
+koperek pęczek,kraj,1.0,1.35,2021-07-08
+marchew kg,kraj,1.7,2.0,2021-07-08
+marchew młoda pęczek,kraj,1.5,2.5,2021-07-08
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-08
+ogórek gruntowy kg,kraj,1.5,3.5,2021-07-08
+ogórek kiszony kg,kraj,7.0,8.5,2021-07-08
+ogórek kiszony małosolny kg,kraj,7.0,10.0,2021-07-08
+ogórek szklarniowy krótki kg,kraj,2.0,3.0,2021-07-08
+papryka czerwona kg,import,9.5,13.0,2021-07-08
+papryka zielona kg,kraj,4.0,5.0,2021-07-08
+papryka żółta kg,import,9.5,13.0,2021-07-08
+pieczarki kg,kraj,6.0,6.5,2021-07-08
+pietruszka korzeń kg,kraj,6.0,11.0,2021-07-08
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-08
+pomidor koktajlowy kg,import,10.0,15.0,2021-07-08
+pomidor malinowy kg,kraj,3.0,5.0,2021-07-08
+por kg,import,5.0,6.5,2021-07-08
+por młody szt.,kraj,1.2,2.0,2021-07-08
+rabarbar kg,kraj,2.5,4.0,2021-07-08
+rzodkiewka pęczek,kraj,1.0,1.75,2021-07-08
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-08
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-08
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-08
+seler kg,kraj,2.5,4.0,2021-07-08
+seler młody szt.,kraj,1.85,2.5,2021-07-08
+seler naciowy szt.,kraj,2.5,3.5,2021-07-08
+szczypiorek pęczek,kraj,1.2,1.33,2021-07-08
+szparagi kg,kraj,18.0,22.0,2021-07-08
+szpinak kg,kraj,7.0,9.0,2021-07-08
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-08
+włoszczyzna młoda szt.,kraj,3.5,3.5,2021-07-08
+ziemniak młody kg,kraj,1.0,1.25,2021-07-08
+ananasy miodowe szt.,import,8.0,10.0,2021-07-08
+arbuz kg,import,1.8,2.5,2021-07-08
+awokado szt.,import,2.0,4.37,2021-07-08
+banan kg,import,4.5,5.31,2021-07-08
+borówka amerykańska kg,kraj,25.0,35.0,2021-07-08
+brzoskwinia kg,import,7.0,9.0,2021-07-08
+cytryny kg,import,5.0,7.0,2021-07-08
+granat szt.,import,6.0,12.0,2021-07-08
+grapefruity kg,import,6.0,15.0,2021-07-08
+gruszka kg,import,5.0,9.5,2021-07-08
+gruszka konferencja kg,kraj,3.3,4.75,2021-07-08
+jabłka alwa kg,kraj,1.0,1.66,2021-07-08
+jabłka cortland kg,kraj,2.0,2.5,2021-07-08
+jabłka gala kg,kraj,1.33,2.0,2021-07-08
+jabłka gloster kg,kraj,1.0,1.5,2021-07-08
+jabłka golden delicius kg,kraj,1.33,2.0,2021-07-08
+jabłka jonagold kg,kraj,1.0,1.66,2021-07-08
+jabłka jonagored kg,kraj,1.0,1.66,2021-07-08
+jabłka ligol kg,kraj,1.85,2.3,2021-07-08
+jabłka lobo kg,kraj,1.66,2.3,2021-07-08
+jabłka reneta szara kg,kraj,2.0,3.0,2021-07-08
+jabłka szampion kg,kraj,1.0,1.66,2021-07-08
+kiwi kg,import,9.0,16.0,2021-07-08
+maliny kg,kraj,12.0,18.0,2021-07-08
+mandarynki kg,import,6.0,12.0,2021-07-08
+mango szt.,import,2.0,12.0,2021-07-08
+melon szt.,import,5.0,9.0,2021-07-08
+morela kg,kraj,5.0,7.0,2021-07-08
+nektarynka kg,import,7.0,10.0,2021-07-08
+pomarańcze kg,import,3.85,8.0,2021-07-08
+porzeczka czarna kg,kraj,15.0,18.0,2021-07-08
+porzeczka czerwona kg,kraj,5.0,9.0,2021-07-08
+śliwki kg,import,5.0,8.5,2021-07-08
+truskawki kg,kraj,4.0,9.0,2021-07-08
+winogrona białe kg,import,9.0,12.0,2021-07-08
+winogrona ciemne kg,import,9.0,12.0,2021-07-08
+wiśnia kg,kraj,10.0,12.0,2021-07-08
+agrest 1 kg,kraj,5.0,14.0,2021-07-12
+ananas dekoracyjny szt.,import,3.3,4.0,2021-07-12
+bakłażan 1 kg,kraj,3.5,4.5,2021-07-12
+bataty 1 kg,import,7.0,8.0,2021-07-12
+bób 1 kg,kraj,6.0,8.0,2021-07-12
+botwinka pęczek,kraj,2.0,2.5,2021-07-12
+brokuły szt.,kraj,2.0,3.0,2021-07-12
+buraki czerwone 1 kg,kraj,1.4,1.85,2021-07-12
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-12
+cebula biała 1 kg,kraj,1.2,1.5,2021-07-12
+cebula biała 1 kg,import,1.6,2.0,2021-07-12
+cebula czerwona 1 kg,kraj,2.85,3.75,2021-07-12
+cebula czosnkowa 1 kg,kraj,2.75,3.75,2021-07-12
+cebula ze szczypiorem pęczek,kraj,1.5,2.5,2021-07-12
+chrzan 1 kg,kraj,6.0,8.0,2021-07-12
+cukinia 1 kg,kraj,1.5,3.5,2021-07-12
+cykoria 1 kg,kraj,6.0,9.6,2021-07-12
+czosnek 1 kg,import,10.0,13.0,2021-07-12
+fasolka szparagowa 1 kg,kraj,3.0,5.0,2021-07-12
+jabłka Empire 1 kg,kraj,2.0,3.0,2021-07-12
+jabłka Rubinstar 1 kg,kraj,1.0,1.66,2021-07-12
+jagody 1 kg,kraj,23.0,30.0,2021-07-12
+kabaczek 1 kg,kraj,1.25,2.0,2021-07-12
+kalafior szt.,kraj,2.0,3.0,2021-07-12
+kalarepa szt.,kraj,1.5,1.8,2021-07-12
+kapusta biała 1 kg,kraj,0.85,1.2,2021-07-12
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-12
+kapusta czerwona 1 kg,kraj,2.0,3.0,2021-07-12
+kapusta kiszona 1 kg,kraj,4.5,6.0,2021-07-12
+kapusta pekińska 1 kg,kraj,2.3,3.0,2021-07-12
+koperek pęczek,kraj,1.75,2.2,2021-07-12
+marchew 1 kg,kraj,1.7,2.0,2021-07-12
+marchew młoda pęczek,kraj,1.5,2.5,2021-07-12
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-12
+ogórek gruntowy 1 kg,kraj,1.0,3.0,2021-07-12
+ogórek kiszony 1 kg,kraj,7.0,8.5,2021-07-12
+ogórek kiszony małosolny 1 kg,kraj,7.0,10.0,2021-07-12
+ogórek szklarniowy krótki 1 kg,kraj,1.5,2.5,2021-07-12
+papryka czerwona 1 kg,kraj,8.0,11.0,2021-07-12
+papryka czerwona 1 kg,import,8.0,11.0,2021-07-12
+papryka zielona 1 kg,kraj,3.5,5.0,2021-07-12
+papryka żółta 1 kg,kraj,8.0,11.0,2021-07-12
+papryka żółta 1 kg,import,8.0,11.0,2021-07-12
+pieczarki 1 kg,kraj,6.0,6.5,2021-07-12
+pietruszka korzeń 1 kg,kraj,8.0,11.0,2021-07-12
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-12
+pomidor koktajlowy 1 kg,import,10.0,15.0,2021-07-12
+pomidor malinowy 1 kg,kraj,3.0,5.0,2021-07-12
+por 1 kg,import,5.0,6.5,2021-07-12
+por młody szt.,kraj,1.2,2.5,2021-07-12
+rabarbar 1 kg,kraj,2.5,4.0,2021-07-12
+rzodkiewka pęczek,kraj,1.0,1.75,2021-07-12
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-12
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-12
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-12
+sałata mix 1 kg,import,18.0,22.0,2021-07-12
+seler 1 kg,kraj,2.5,4.0,2021-07-12
+seler młody szt.,kraj,1.85,2.5,2021-07-12
+seler naciowy szt.,import,2.5,2.9,2021-07-12
+seler naciowy szt.,kraj,2.5,3.5,2021-07-12
+szczypiorek pęczek,kraj,1.0,1.2,2021-07-12
+szparagi 1 kg,kraj,25.0,35.0,2021-07-12
+szpinak 1 kg,kraj,7.0,9.0,2021-07-12
+słonecznik szt.,kraj,2.85,3.5,2021-07-12
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-12
+włoszczyzna młoda szt.,kraj,0.0,3.5,2021-07-12
+ziemniak 1 kg,kraj,1.2,1.5,2021-07-12
+ananasy miodowe szt.,import,6.7,8.0,2021-07-12
+arbuz 1 kg,import,1.8,2.5,2021-07-12
+awokado szt.,import,2.0,4.37,2021-07-12
+banan 1 kg,import,4.5,5.31,2021-07-12
+borówka amerykańska 1 kg,kraj,16.0,22.0,2021-07-12
+brzoskwinia 1 kg,import,6.0,9.0,2021-07-12
+cytryny 1 kg,import,6.75,8.0,2021-07-12
+czereśnie 1 kg,kraj,2.5,7.25,2021-07-12
+granat szt.,import,6.0,10.0,2021-07-12
+grapefruity 1 kg,import,6.0,15.0,2021-07-12
+gruszka 1 kg,import,5.0,9.5,2021-07-12
+gruszka konferencja 1 kg,kraj,3.3,4.75,2021-07-12
+jabłka 1 kg,import,3.75,6.0,2021-07-12
+jabłka alwa 1 kg,kraj,1.0,1.66,2021-07-12
+jabłka cortland 1 kg,kraj,2.0,2.5,2021-07-12
+jabłka gala 1 kg,kraj,1.33,2.0,2021-07-12
+jabłka gloster 1 kg,kraj,1.0,1.5,2021-07-12
+jabłka golden delicius 1 kg,kraj,1.33,2.0,2021-07-12
+jabłka jonagold 1 kg,kraj,1.0,1.66,2021-07-12
+jabłka jonagored 1 kg,kraj,1.0,1.66,2021-07-12
+jabłka ligol 1 kg,kraj,1.85,2.3,2021-07-12
+jabłka lobo 1 kg,kraj,1.66,2.3,2021-07-12
+jabłka reneta szara 1 kg,kraj,2.0,3.0,2021-07-12
+jabłka szampion 1 kg,kraj,1.0,1.66,2021-07-12
+kiwi 1 kg,import,9.5,16.0,2021-07-12
+maliny 1 kg,kraj,13.0,20.0,2021-07-12
+mandarynki 1 kg,import,6.0,12.0,2021-07-12
+mango szt.,import,2.0,12.0,2021-07-12
+melon szt.,import,5.4,12.0,2021-07-12
+morela 1 kg,import,7.5,11.0,2021-07-12
+morela 1 kg,kraj,5.0,7.0,2021-07-12
+nektarynka 1 kg,import,6.0,10.0,2021-07-12
+pomarańcze 1 kg,import,3.85,8.0,2021-07-12
+porzeczka czarna 1 kg,kraj,7.0,8.0,2021-07-12
+porzeczka czerwona 1 kg,kraj,5.0,9.0,2021-07-12
+śliwki 1 kg,import,5.0,8.5,2021-07-12
+truskawki 1 kg,kraj,4.0,8.0,2021-07-12
+winogrona białe 1 kg,import,9.0,12.0,2021-07-12
+winogrona ciemne 1 kg,import,9.0,12.0,2021-07-12
+wiśnia 1 kg,kraj,6.0,7.25,2021-07-12
+agrest 1 kg,kraj,5.0,14.0,2021-07-13
+ananas dekoracyjny szt.,import,3.3,4.0,2021-07-13
+bakłażan 1 kg,kraj,3.5,4.5,2021-07-13
+bataty 1 kg,import,7.0,8.0,2021-07-13
+bób 1 kg,kraj,6.0,8.0,2021-07-13
+botwinka pęczek,kraj,2.0,2.5,2021-07-13
+brokuły szt.,kraj,2.25,3.5,2021-07-13
+buraki czerwone 1 kg,kraj,1.4,1.85,2021-07-13
+buraki czerwone młode pęczek,kraj,1.5,2.5,2021-07-13
+cebula biała 1 kg,kraj,1.2,1.5,2021-07-13
+cebula biała 1 kg,import,1.6,2.0,2021-07-13
+cebula czerwona 1 kg,kraj,2.85,3.75,2021-07-13
+cebula czosnkowa 1 kg,kraj,2.75,3.75,2021-07-13
+cebula ze szczypiorem pęczek,kraj,1.5,2.5,2021-07-13
+chrzan 1 kg,kraj,6.0,8.0,2021-07-13
+cukinia 1 kg,kraj,1.5,3.5,2021-07-13
+cykoria 1 kg,kraj,6.0,9.6,2021-07-13
+czosnek 1 kg,import,10.0,13.0,2021-07-13
+fasolka szparagowa 1 kg,kraj,3.0,5.0,2021-07-13
+jabłka Empire 1 kg,kraj,2.0,3.0,2021-07-13
+jabłka Rubinstar 1 kg,kraj,1.0,1.66,2021-07-13
+jagody 1 kg,kraj,23.0,30.0,2021-07-13
+kabaczek 1 kg,kraj,1.25,2.0,2021-07-13
+kalafior szt.,kraj,2.0,3.0,2021-07-13
+kalarepa szt.,kraj,1.5,1.8,2021-07-13
+kapusta biała 1 kg,kraj,0.85,1.2,2021-07-13
+kapusta biała młoda szt.,kraj,2.0,3.0,2021-07-13
+kapusta czerwona 1 kg,kraj,2.0,3.0,2021-07-13
+kapusta kiszona 1 kg,kraj,4.5,6.0,2021-07-13
+kapusta pekińska 1 kg,kraj,2.3,3.0,2021-07-13
+koperek pęczek,kraj,1.75,2.2,2021-07-13
+marchew 1 kg,kraj,1.7,2.0,2021-07-13
+marchew młoda pęczek,kraj,1.5,2.5,2021-07-13
+nać pietruszki pęczek,kraj,1.0,1.2,2021-07-13
+ogórek gruntowy 1 kg,kraj,1.25,3.0,2021-07-13
+ogórek kiszony 1 kg,kraj,7.0,8.5,2021-07-13
+ogórek kiszony małosolny 1 kg,kraj,7.0,10.0,2021-07-13
+ogórek szklarniowy krótki 1 kg,kraj,1.5,2.5,2021-07-13
+papryka czerwona 1 kg,kraj,8.0,11.0,2021-07-13
+papryka czerwona 1 kg,import,8.0,11.0,2021-07-13
+papryka zielona 1 kg,kraj,3.5,5.0,2021-07-13
+papryka żółta 1 kg,import,8.0,11.0,2021-07-13
+papryka żółta 1 kg,kraj,8.0,11.0,2021-07-13
+pieczarki 1 kg,kraj,6.0,6.5,2021-07-13
+pietruszka korzeń 1 kg,kraj,8.0,11.0,2021-07-13
+pietruszka młoda pęczek,kraj,3.0,4.0,2021-07-13
+pomidor koktajlowy 1 kg,import,10.0,15.0,2021-07-13
+pomidor malinowy 1 kg,kraj,3.0,5.0,2021-07-13
+por 1 kg,import,5.0,6.5,2021-07-13
+por młody szt.,kraj,1.2,2.5,2021-07-13
+rabarbar 1 kg,kraj,2.5,4.0,2021-07-13
+rzodkiewka pęczek,kraj,1.0,1.75,2021-07-13
+sałata karbowana szt.,kraj,1.87,2.9,2021-07-13
+sałata lodowa szt.,kraj,2.0,3.0,2021-07-13
+sałata masłowa szt.,kraj,1.56,2.5,2021-07-13
+sałata mix 1 kg,import,18.0,22.0,2021-07-13
+seler 1 kg,kraj,2.5,4.0,2021-07-13
+seler młody szt.,kraj,1.85,2.5,2021-07-13
+seler naciowy szt.,kraj,2.5,3.5,2021-07-13
+seler naciowy szt.,import,2.5,2.9,2021-07-13
+szczypiorek pęczek,kraj,1.0,1.2,2021-07-13
+szpinak 1 kg,kraj,7.0,9.0,2021-07-13
+słonecznik szt.,kraj,2.85,3.5,2021-07-13
+włoszczyzna szt.,kraj,3.75,4.75,2021-07-13
+włoszczyzna młoda szt.,kraj,0.0,3.5,2021-07-13
+ziemniak 1 kg,kraj,1.2,1.5,2021-07-13
+ananasy miodowe szt.,import,6.7,8.0,2021-07-13
+arbuz 1 kg,import,1.8,2.5,2021-07-13
+awokado 1 kg,import,2.0,4.37,2021-07-13
+banan 1 kg,import,4.5,5.31,2021-07-13
+borówka amerykańska 1 kg,kraj,16.0,22.0,2021-07-13
+brzoskwinia 1 kg,import,6.0,9.0,2021-07-13
+cytryny 1 kg,import,6.75,8.0,2021-07-13
+czereśnie 1 kg,kraj,3.0,8.0,2021-07-13
+granat szt.,import,6.0,10.0,2021-07-13
+grapefruity 1 kg,import,6.0,15.0,2021-07-13
+gruszka 1 kg,import,5.0,9.5,2021-07-13
+gruszka konferencja 1 kg,kraj,3.3,4.75,2021-07-13
+jabłka 1 kg,import,3.75,6.0,2021-07-13
+jabłka alwa 1 kg,kraj,1.0,1.66,2021-07-13
+jabłka cortland 1 kg,kraj,2.0,2.5,2021-07-13
+jabłka gala 1 kg,kraj,1.33,2.0,2021-07-13
+jabłka gloster 1 kg,kraj,1.0,1.5,2021-07-13
+jabłka golden delicius 1 kg,kraj,1.33,2.0,2021-07-13
+jabłka jonagold 1 kg,kraj,1.0,1.66,2021-07-13
+jabłka jonagored 1 kg,kraj,1.0,1.66,2021-07-13
+jabłka ligol 1 kg,kraj,1.85,2.3,2021-07-13
+jabłka lobo 1 kg,kraj,1.66,2.3,2021-07-13
+jabłka reneta szara 1 kg,kraj,2.0,3.0,2021-07-13
+jabłka szampion 1 kg,kraj,1.0,1.66,2021-07-13
+kiwi 1 kg,import,9.5,16.0,2021-07-13
+maliny 1 kg,kraj,13.0,20.0,2021-07-13
+mandarynki 1 kg,import,6.0,12.0,2021-07-13
+mango szt.,import,2.0,12.0,2021-07-13
+melon szt.,import,5.4,12.0,2021-07-13
+morela 1 kg,kraj,5.5,8.0,2021-07-13
+morela szt.,import,7.5,11.0,2021-07-13
+nektarynka 1 kg,import,6.0,10.0,2021-07-13
+pomarańcze 1 kg,import,3.85,8.0,2021-07-13
+porzeczka czarna 1 kg,kraj,7.0,9.0,2021-07-13
+porzeczka czerwona 1 kg,kraj,5.0,9.0,2021-07-13
+śliwki 1 kg,import,5.0,8.5,2021-07-13
+truskawki 1 kg,kraj,4.0,8.0,2021-07-13
+winogrona białe 1 kg,import,9.0,12.0,2021-07-13
+winogrona ciemne 1 kg,import,9.0,12.0,2021-07-13
+wiśnia 1 kg,kraj,4.0,6.0,2021-07-13
+agrest 1 kg,"   kraj
+",9.0,15.0,2021-08-13
+ananas dekoracyjny szt.,"   import
+",3.0,4.0,2021-08-13
+bakłażan 1 kg,"   kraj
+",2.0,3.0,2021-08-13
+bataty 1 kg,"   import
+",7.0,8.0,2021-08-13
+bób 1 kg,"   kraj
+",10.0,12.0,2021-08-13
+botwinka pęczek,"   kraj
+",2.0,2.5,2021-08-13
+brokuły szt.,"   kraj
+",3.0,4.0,2021-08-13
+buraki czerwone 1 kg,"   kraj
+",0.7,1.0,2021-08-13
+buraki czerwone młode pęczek,"   kraj
+",1.5,2.5,2021-08-13
+cebula biała 1 kg,"   kraj
+",0.85,1.2,2021-08-13
+cebula czerwona 1 kg,"   kraj
+",2.85,3.3,2021-08-13
+cebula czosnkowa 1 kg,"   kraj
+",2.75,3.5,2021-08-13
+cebula młoda 1 kg,"   kraj
+",2.0,3.5,2021-08-13
+cebula ze szczypiorem pęczek,"   kraj
+",1.5,2.5,2021-08-13
+chrzan 1 kg,"   kraj
+",14.0,16.0,2021-08-13
+cukinia 1 kg,"   kraj
+",2.0,3.0,2021-08-13
+cykoria 1 kg,"   kraj
+",6.0,9.6,2021-08-13
+czosnek szt.,"   kraj
+",1.0,2.5,2021-08-13
+dynia 1 kg,"   kraj
+",3.0,4.0,2021-08-13
+fasolka szparagowa 1 kg,"   kraj
+",3.5,5.5,2021-08-13
+jabłka Empire 1 kg,"   kraj
+",2.0,3.0,2021-08-13
+jabłka Rubinstar 1 kg,"   kraj
+",1.0,2.0,2021-08-13
+jagody 1 kg,"   kraj
+",20.0,25.0,2021-08-13
+kabaczek 1 kg,"   kraj
+",2.3,3.0,2021-08-13
+kalafior szt.,"   kraj
+",4.25,6.5,2021-08-13
+kalarepa szt.,"   kraj
+",1.3,1.7,2021-08-13
+kapusta biała 1 kg,"   kraj
+",0.4,0.65,2021-08-13
+kapusta biała młoda szt.,"   kraj
+",2.0,3.0,2021-08-13
+kapusta czerwona 1 kg,"   kraj
+",1.5,2.0,2021-08-13
+kapusta kiszona 1 kg,"   kraj
+",4.5,6.0,2021-08-13
+kapusta pekińska 1 kg,"   kraj
+",2.75,4.0,2021-08-13
+kapusta włoska 1 kg,"   kraj
+",1.5,2.5,2021-08-13
+koperek pęczek,"   kraj
+",1.85,2.2,2021-08-13
+marchew 1 kg,"   kraj
+",1.0,1.25,2021-08-13
+nać pietruszki pęczek,"   kraj
+",1.0,1.5,2021-08-13
+ogórek gruntowy 1 kg,"   kraj
+",2.0,4.0,2021-08-13
+ogórek kiszony 1 kg,"   kraj
+",7.0,8.5,2021-08-13
+ogórek kiszony małosolny 1 kg,"   kraj
+",7.5,9.0,2021-08-13
+ogórek szklarniowy krótki 1 kg,"   kraj
+",3.3,4.5,2021-08-13
+papryka czerwona 1 kg,"   kraj
+",3.25,5.0,2021-08-13
+papryka zielona 1 kg,"   kraj
+",3.0,4.0,2021-08-13
+papryka żółta 1 kg,"   kraj
+",3.25,5.0,2021-08-13
+pieczarki 1 kg,"   kraj
+",6.0,8.0,2021-08-13
+pietruszka korzeń 1 kg,"   kraj
+",5.0,7.0,2021-08-13
+pietruszka młoda pęczek,"   kraj
+",3.0,4.0,2021-08-13
+pomidor gruntowy 1 kg,"   kraj
+",1.75,3.3,2021-08-13
+pomidor malinowy 1 kg,"   kraj
+",4.33,6.0,2021-08-13
+pomidor szklarniowy 1 kg,"   kraj
+",5.0,6.5,2021-08-13
+por 1 kg,"   kraj
+",1.8,3.0,2021-08-13
+por młody szt.,"   kraj
+",1.0,1.5,2021-08-13
+rabarbar 1 kg,"   kraj
+",2.5,3.5,2021-08-13
+rzodkiewka pęczek,"   kraj
+",1.5,2.2,2021-08-13
+sałata karbowana szt.,"   kraj
+",2.75,4.0,2021-08-13
+sałata lodowa szt.,"   kraj
+",3.2,6.0,2021-08-13
+sałata masłowa szt.,"   kraj
+",2.75,3.75,2021-08-13
+sałata mix 1 kg,"   import
+",20.0,25.0,2021-08-13
+seler 1 kg,"   kraj
+",2.0,3.0,2021-08-13
+seler młody szt.,"   kraj
+",1.85,2.2,2021-08-13
+seler naciowy szt.,"   kraj
+",2.85,3.2,2021-08-13
+szczypiorek pęczek,"   kraj
+",0.8,1.2,2021-08-13
+szpinak 1 kg,"   kraj
+",7.0,9.0,2021-08-13
+słonecznik szt.,"   kraj
+",2.0,3.0,2021-08-13
+włoszczyzna szt.,"   kraj
+",3.75,4.5,2021-08-13
+włoszczyzna młoda szt.,"   kraj
+",3.75,4.75,2021-08-13
+ziemniak 1 kg,"   kraj
+",0.8,1.0,2021-08-13
+ananasy miodowe pęczek,"   import
+",6.0,7.0,2021-08-13
+arbuz 1 kg,"   import
+",1.25,1.75,2021-08-13
+awokado szt.,"   import
+",3.75,7.0,2021-08-13
+banan 1 kg,"   import
+",4.3,4.82,2021-08-13
+borówka amerykańska 1 kg,"   kraj
+",11.0,16.0,2021-08-13
+brzoskwinia 1 kg,"   kraj
+",3.0,6.75,2021-08-13
+cytryny 1 kg,"   import
+",6.75,8.0,2021-08-13
+czereśnie 1 kg,"   kraj
+",15.0,20.0,2021-08-13
+granat szt.,"   import
+",5.0,8.0,2021-08-13
+grapefruity 1 kg,"   import
+",6.0,15.0,2021-08-13
+gruszka 1 kg,"   import
+",5.0,9.5,2021-08-13
+gruszka konferencja 1 kg,"   kraj
+",3.3,4.75,2021-08-13
+jabłka antonówka 1 kg,"   kraj
+",2.2,2.66,2021-08-13
+jabłka early geneva 1 kg,"   kraj
+",2.0,2.85,2021-08-13
+jabłka gala 1 kg,"   kraj
+",1.33,2.0,2021-08-13
+jabłka gloster 1 kg,"   kraj
+",1.0,1.5,2021-08-13
+jabłka golden delicius 1 kg,"   kraj
+",1.33,2.0,2021-08-13
+jabłka jonagold 1 kg,"   kraj
+",1.0,2.0,2021-08-13
+jabłka jonagored 1 kg,"   kraj
+",1.0,2.0,2021-08-13
+jabłka ligol 1 kg,"   kraj
+",1.85,2.3,2021-08-13
+jabłka lobo 1 kg,"   kraj
+",1.66,2.3,2021-08-13
+jabłka papierówka 1 kg,"   kraj
+",2.0,2.75,2021-08-13
+jabłka piros 1 kg,"   kraj
+",2.0,2.5,2021-08-13
+jabłka reneta szara 1 kg,"   kraj
+",2.0,3.0,2021-08-13
+jabłka szampion 1 kg,"   kraj
+",1.0,2.0,2021-08-13
+kiwi 1 kg,"   import
+",9.5,16.0,2021-08-13
+maliny 1 kg,"   kraj
+",25.0,36.0,2021-08-13
+mandarynki 1 kg,"   import
+",7.0,12.0,2021-08-13
+mango szt.,"   import
+",6.0,12.0,2021-08-13
+melon szt.,"   import
+",5.4,12.0,2021-08-13
+morela 1 kg,"   kraj
+",7.0,11.0,2021-08-13
+nektarynka 1 kg,"   import
+",6.5,11.0,2021-08-13
+pomarańcze 1 kg,"   import
+",3.85,8.0,2021-08-13
+porzeczka czerwona 1 kg,"   kraj
+",4.0,8.0,2021-08-13
+śliwki 1 kg,"   kraj
+",1.0,3.0,2021-08-13
+truskawki 1 kg,"   kraj
+",10.0,25.0,2021-08-13
+winogrona białe 1 kg,"   import
+",6.5,9.5,2021-08-13
+winogrona ciemne 1 kg,"   import
+",9.0,10.0,2021-08-13
+wiśnia 1 kg,"   kraj
+",2.5,4.0,2021-08-13
+ananas dekoracyjny szt.,"   import
+",6.0,7.0,2022-05-04
+bakłażan 1 kg,"   import
+",6.5,7.0,2022-05-04
+bataty 1 kg,"   import
+",6.33,7.0,2022-05-04
+botwinka pęczek,"   kraj
+",2.5,3.0,2022-05-04
+brokuły 1 kg,"   import
+",10.0,11.5,2022-05-04
+buraki czerwone 1 kg,"   kraj
+",1.4,1.85,2022-05-04
+cebula biała 1 kg,"   kraj
+",1.2,1.5,2022-05-04
+cebula biała 1 kg,"   import
+",1.46,4.0,2022-05-04
+cebula czerwona 1 kg,"   kraj
+",1.85,2.5,2022-05-04
+cebula czosnkowa 1 kg,"   kraj
+",3.0,6.0,2022-05-04
+cebula ze szczypiorem pęczek,"   kraj
+",1.5,2.0,2022-05-04
+chrzan 1 kg,"   kraj
+",9.0,12.0,2022-05-04
+cukinia 1 kg,"   import
+",5.6,6.5,2022-05-04
+cykoria 1 kg,"   kraj
+",6.0,8.0,2022-05-04
+czosnek szt.,"   kraj
+",1.5,2.25,2022-05-04
+czosnek szt.,"   import
+",9.0,12.0,2022-05-04
+jabłka Empire 1 kg,"   kraj
+",2.33,3.0,2022-05-04
+jabłka Rubinstar 1 kg,"   kraj
+",1.2,1.75,2022-05-04
+kalafior szt.,"   import
+",5.0,6.5,2022-05-04
+kalarepa szt.,"   import
+",2.0,2.5,2022-05-04
+kapusta biała 1 kg,"   kraj
+",1.75,2.5,2022-05-04
+kapusta czerwona 1 kg,"   kraj
+",2.5,3.5,2022-05-04
+kapusta kiszona 1 kg,"   kraj
+",3.6,4.25,2022-05-04
+kapusta pekińska 1 kg,"   kraj
+",4.0,6.0,2022-05-04
+kapusta włoska 1 kg,"   kraj
+",2.0,3.0,2022-05-04
+koperek pęczek,"   kraj
+",1.2,1.5,2022-05-04
+marchew 1 kg,"   kraj
+",1.1,1.3,2022-05-04
+marchew 1 kg,"   import
+",1.35,1.7,2022-05-04
+nać pietruszki pęczek,"   kraj
+",1.0,1.33,2022-05-04
+ogórek gruntowy 1 kg,"   kraj
+",5.5,7.5,2022-05-04
+ogórek kiszony 1 kg,"   kraj
+",7.75,8.25,2022-05-04
+ogórek kiszony małosolny 1 kg,"   kraj
+",12.0,14.0,2022-05-04
+ogórek szklarniowy krótki 1 kg,"   kraj
+",5.5,7.0,2022-05-04
+papryka czerwona 1 kg,"   import
+",6.0,7.5,2022-05-04
+papryka zielona 1 kg,"   import
+",8.75,9.5,2022-05-04
+papryka żółta 1 kg,"   import
+",6.0,7.5,2022-05-04
+pieczarki 1 kg,"   kraj
+",6.5,8.0,2022-05-04
+pietruszka korzeń 1 kg,"   kraj
+",3.0,4.0,2022-05-04
+pomidor 1 kg,"   import
+",7.0,9.5,2022-05-04
+pomidor koktajlowy 1 kg,"   import
+",7.0,9.0,2022-05-04
+pomidor malinowy 1 kg,"   kraj
+",6.0,8.0,2022-05-04
+pomidor szklarniowy 1 kg,"   kraj
+",5.0,7.5,2022-05-04
+por 1 kg,"   kraj
+",2.2,2.6,2022-05-04
+por 1 kg,"   import
+",2.2,2.8,2022-05-04
+rabarbar 1 kg,"   kraj
+",6.0,7.0,2022-05-04
+rzodkiewka pęczek,"   kraj
+",1.5,2.2,2022-05-04
+sałata karbowana szt.,"   kraj
+",2.5,4.2,2022-05-04
+sałata lodowa szt.,"   kraj
+",5.0,6.5,2022-05-04
+sałata lodowa 1 kg,"   import
+",6.5,8.0,2022-05-04
+sałata masłowa szt.,"   kraj
+",2.25,3.75,2022-05-04
+sałata mix 1 kg,"   import
+",23.0,28.0,2022-05-04
+seler 1 kg,"   kraj
+",3.0,4.5,2022-05-04
+seler naciowy szt.,"   import
+",2.8,3.3,2022-05-04
+szczypiorek pęczek,"   kraj
+",0.9,1.2,2022-05-04
+szparagi 1 kg,"   kraj
+",26.0,30.0,2022-05-04
+szpinak 1 kg,"   kraj
+",6.0,7.5,2022-05-04
+włoszczyzna szt.,"   kraj
+",3.85,4.0,2022-05-04
+ziemniak 1 kg,"   import
+",1.35,3.0,2022-05-04
+ziemniak 1 kg,"   kraj
+",1.0,1.33,2022-05-04
+ziemniak młody 1 kg,"   import
+",2.5,5.0,2022-05-04
+ananasy miodowe szt.,"   import
+",12.0,19.0,2022-05-04
+arbuz 1 kg,"   import
+",7.5,9.0,2022-05-04
+awokado szt.,"   import
+",2.8,5.0,2022-05-04
+banan 1 kg,"   import
+",4.61,5.6,2022-05-04
+borówka amerykańska 1 kg,"   import
+",30.0,50.0,2022-05-04
+cytryny 1 kg,"   import
+",3.75,5.0,2022-05-04
+granat szt.,"   import
+",3.3,6.0,2022-05-04
+grapefruity 1 kg,"   import
+",4.0,16.0,2022-05-04
+gruszka 1 kg,"   import
+",5.0,11.0,2022-05-04
+gruszka konferencja 1 kg,"   kraj
+",3.75,5.5,2022-05-04
+jabłka 1 kg,"   import
+",3.75,6.5,2022-05-04
+jabłka alwa 1 kg,"   kraj
+",1.33,1.75,2022-05-04
+jabłka cortland 1 kg,"   kraj
+",2.25,3.33,2022-05-04
+jabłka gala 1 kg,"   kraj
+",1.2,2.0,2022-05-04
+jabłka golden delicius 1 kg,"   kraj
+",1.25,2.2,2022-05-04
+jabłka jonagored 1 kg,"   kraj
+",1.2,1.5,2022-05-04
+jabłka ligol 1 kg,"   kraj
+",1.33,2.0,2022-05-04
+jabłka lobo 1 kg,"   kraj
+",2.0,3.0,2022-05-04
+jabłka reneta szara 1 kg,"   kraj
+",2.0,2.66,2022-05-04
+jabłka szampion 1 kg,"   kraj
+",1.2,1.75,2022-05-04
+kiwi 1 kg,"   import
+",7.0,16.0,2022-05-04
+mandarynki 1 kg,"   import
+",5.0,10.0,2022-05-04
+mango szt.,"   import
+",5.0,17.0,2022-05-04
+melon szt.,"   import
+",7.2,11.0,2022-05-04
+nektarynka 1 kg,"   import
+",11.0,13.0,2022-05-04
+orzechy laskowe 1 kg,"   kraj
+",7.0,11.0,2022-05-04
+orzechy włoskie 1 kg,"   kraj
+",5.0,12.0,2022-05-04
+pomarańcze 1 kg,"   import
+",2.5,7.5,2022-05-04
+śliwki 1 kg,"   import
+",5.0,6.0,2022-05-04
+truskawki 1 kg,"   kraj
+",15.0,22.0,2022-05-04
+winogrona białe 1 kg,"   import
+",13.0,19.0,2022-05-04
+winogrona ciemne 1 kg,"   import
+",4.75,15.0,2022-05-04

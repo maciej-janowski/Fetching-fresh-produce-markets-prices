@@ -1,0 +1,1399 @@
+product,origin,quantity,lowest_price,highest_price,date
+Ananas,import,"1,00 szt.",5.0,10.0,2021-06-29
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-06-29
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-06-29
+Avocado,import,"1,00 szt.",4.0,6.0,2021-06-29
+Banan,import,"18,00 Kg",75.0,80.0,2021-06-29
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-06-29
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-06-29
+Granat,import,"1,00 szt.",4.0,6.0,2021-06-29
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-06-29
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-06-29
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-06-29
+Limonka,import,"1,00 Kg",12.0,15.0,2021-06-29
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-06-29
+Mango,import,"1,00 szt.",3.5,6.0,2021-06-29
+Melon,import,"1,00 szt.",5.0,8.0,2021-06-29
+Morela,import,"5,00 Kg",60.0,70.0,2021-06-29
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-06-29
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-06-29
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-06-29
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-06-29
+Ananas,import,"1,00 szt.",5.0,10.0,2021-06-30
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-06-30
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-06-30
+Avocado,import,"1,00 szt.",4.0,6.0,2021-06-30
+Banan,import,"18,00 Kg",75.0,80.0,2021-06-30
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-06-30
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-06-30
+Granat,import,"1,00 szt.",4.0,6.0,2021-06-30
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-06-30
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-06-30
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-06-30
+Limonka,import,"1,00 Kg",12.0,15.0,2021-06-30
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-06-30
+Mango,import,"1,00 szt.",3.5,6.0,2021-06-30
+Melon,import,"1,00 szt.",5.0,8.0,2021-06-30
+Morela,import,"5,00 Kg",60.0,70.0,2021-06-30
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-06-30
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-06-30
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-06-30
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-06-30
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-06-30
+Borówka,krajowe,"250,00 g",12.0,12.0,2021-06-30
+Czereśnia,krajowe,"1,00 Kg",8.0,14.0,2021-06-30
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-06-30
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-06-30
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-06-30
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-06-30
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-06-30
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-06-30
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-06-30
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-06-30
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-06-30
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-06-30
+Malina,krajowe,"250,00 g",8.0,10.0,2021-06-30
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-06-30
+Batat,import,"1,00 Kg",8.0,10.0,2021-06-30
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-06-30
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-06-30
+Imbir,import,"1,00 Kg",18.0,20.0,2021-06-30
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-06-30
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-06-30
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-06-30
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-06-30
+Rukola,import,"100,00 g",3.5,4.0,2021-06-30
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-06-30
+Sałata mix,import,"150,00 g",3.5,4.0,2021-06-30
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-06-30
+Bób,krajowe,"1,00 Kg",5.0,10.0,2021-06-30
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-06-30
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-06-30
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-06-30
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-06-30
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-06-30
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-06-30
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-06-30
+Fasola  żółta,krajowe,"1,00 Kg",12.0,16.0,2021-06-30
+Kalafior,krajowe,"1,00 szt.",3.0,5.5,2021-06-30
+Kapusta czerwona,krajowe,"10,00 Kg",40.0,50.0,2021-06-30
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-06-30
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-06-30
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-06-30
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-06-30
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-06-30
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-06-30
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-06-30
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-06-30
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-06-30
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-06-30
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-06-30
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-06-30
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-06-30
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-06-30
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-06-30
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-06-30
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-06-30
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-06-30
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-06-30
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-06-30
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-06-30
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-06-30
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-06-30
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-06-30
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-06-30
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-06-30
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-06-30
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-06-30
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-06-30
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-06-30
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-06-30
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-06-30
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-01
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-01
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-07-01
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-01
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-01
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-01
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-01
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-01
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-01
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-01
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-01
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-01
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-01
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-01
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-01
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-01
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-01
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-01
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-01
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-01
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-01
+Borówka,krajowe,"250,00 g",12.0,12.0,2021-07-01
+Czereśnia,krajowe,"1,00 Kg",8.0,14.0,2021-07-01
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-01
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-01
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-01
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-01
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-01
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-01
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-01
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-01
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-01
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-01
+Malina,krajowe,"250,00 g",8.0,10.0,2021-07-01
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-01
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-01
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-01
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-01
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-01
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-01
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-01
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-01
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-01
+Rukola,import,"100,00 g",3.5,4.0,2021-07-01
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-01
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-01
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-01
+Bób,krajowe,"1,00 Kg",5.0,10.0,2021-07-01
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-01
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-01
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-01
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-01
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-01
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-01
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-01
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-01
+Fasola  żółta,krajowe,"1,00 Kg",12.0,16.0,2021-07-01
+Kalafior,krajowe,"1,00 szt.",3.0,5.5,2021-07-01
+Kapusta czerwona,krajowe,"10,00 Kg",40.0,50.0,2021-07-01
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-01
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-01
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-01
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-01
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-01
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-01
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-01
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-01
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-01
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-01
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-01
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-01
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-01
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-01
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-01
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-01
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-01
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-01
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-01
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-01
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-01
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-01
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-01
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-01
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-01
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-01
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-01
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-01
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-01
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-01
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-01
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-01
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-01
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-01
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-02
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-02
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-07-02
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-02
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-02
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-02
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-02
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-02
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-02
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-02
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-02
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-02
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-02
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-02
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-02
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-02
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-02
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-02
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-02
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-02
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-02
+Borówka,krajowe,"250,00 g",12.0,12.0,2021-07-02
+Czereśnia,krajowe,"1,00 Kg",8.0,14.0,2021-07-02
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-02
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-02
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-02
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-02
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-02
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-02
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-02
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-02
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-02
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-02
+Malina,krajowe,"250,00 g",5.0,8.0,2021-07-02
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-02
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-02
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-02
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-02
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-02
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-02
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-02
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-02
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-02
+Rukola,import,"100,00 g",3.5,4.0,2021-07-02
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-02
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-02
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-02
+Bób,krajowe,"1,00 Kg",5.0,10.0,2021-07-02
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-02
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-02
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-02
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-02
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-02
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-02
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-02
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-02
+Fasola  żółta,krajowe,"1,00 Kg",12.0,16.0,2021-07-02
+Kalafior,krajowe,"1,00 szt.",3.0,5.5,2021-07-02
+Kapusta czerwona,krajowe,"10,00 Kg",40.0,50.0,2021-07-02
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-02
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-02
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-02
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-02
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-02
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-02
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-02
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-02
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-02
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-02
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-02
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-02
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-02
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-02
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-02
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-02
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-02
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-02
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-02
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-02
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-02
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-02
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-02
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-02
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-02
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-02
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-02
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-02
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-02
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-02
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-02
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-02
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-02
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-02
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-05
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-05
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-07-05
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-05
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-05
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-05
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-05
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-05
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-05
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-05
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-05
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-05
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-05
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-05
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-05
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-05
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-05
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-05
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-05
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-05
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-05
+Borówka,krajowe,"250,00 g",12.0,12.0,2021-07-05
+Borówka luz,krajowe,"1,00 Kg",40.0,40.0,2021-07-05
+Czereśnia,krajowe,"1,00 Kg",8.0,14.0,2021-07-05
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-05
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-05
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-05
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-05
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-05
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-05
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-05
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-05
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-05
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-05
+Malina,krajowe,"250,00 g",5.0,8.0,2021-07-05
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-05
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-05
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-05
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-05
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-05
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-05
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-05
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-05
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-05
+Rukola,import,"100,00 g",3.5,4.0,2021-07-05
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-05
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-05
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-05
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-05
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-05
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-05
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-05
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-05
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-05
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-05
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-05
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-05
+Fasola zielona,krajowe,"1,00 Kg",10.0,14.0,2021-07-05
+Fasola  żółta,krajowe,"1,00 Kg",10.0,14.0,2021-07-05
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-05
+Kapusta czerwona,krajowe,"10,00 Kg",25.0,40.0,2021-07-05
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-05
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-05
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-05
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-05
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-05
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-05
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-05
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-05
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-05
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-05
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-05
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-05
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-05
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-05
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-05
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-05
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-05
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-05
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-05
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-05
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-05
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-05
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-05
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-05
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-05
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-05
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-05
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-05
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-05
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-05
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-05
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-05
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-05
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-05
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-06
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-06
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,3.99,2021-07-06
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-06
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-06
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-06
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-06
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-06
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-06
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-06
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-06
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-06
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-06
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-06
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-06
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-06
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-06
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-06
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-06
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-06
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-06
+Borówka,krajowe,"250,00 g",12.0,12.0,2021-07-06
+Borówka luz,krajowe,"1,00 Kg",40.0,40.0,2021-07-06
+Czereśnia,krajowe,"1,00 Kg",8.0,14.0,2021-07-06
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-06
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-06
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-06
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-06
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-06
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-06
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-06
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-06
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-06
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-06
+Jagoda,krajowe,"1,00 Kg",24.0,25.0,2021-07-06
+Malina,krajowe,"0,50 Kg",6.0,8.0,2021-07-06
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-06
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-06
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-06
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-06
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-06
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-06
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-06
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-06
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-06
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-06
+Rukola,import,"100,00 g",3.5,4.0,2021-07-06
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-06
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-06
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-06
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-06
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-06
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-06
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-06
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-06
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-06
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-06
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-06
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-06
+Fasola zielona,krajowe,"1,00 Kg",10.0,14.0,2021-07-06
+Fasola  żółta,krajowe,"1,00 Kg",10.0,14.0,2021-07-06
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-06
+Kapusta czerwona,krajowe,"10,00 Kg",25.0,40.0,2021-07-06
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-06
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-06
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-06
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-06
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-06
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-06
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-06
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-06
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-06
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-06
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-06
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-06
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-06
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-06
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-06
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-06
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-06
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-06
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-06
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-06
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-06
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-06
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-06
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-06
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-06
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-06
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-06
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-06
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-06
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-06
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-06
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-06
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-06
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-06
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-06
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-07
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-07
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-07
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-07
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-07
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-07
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-07
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-07
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-07
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-07
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-07
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-07
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-07
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-07
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-07
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-07
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-07
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-07
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-07
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-07
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-07
+Borówka,krajowe,"250,00 g",8.0,11.0,2021-07-07
+Borówka luz,krajowe,"1,00 Kg",40.0,40.0,2021-07-07
+Czereśnia,krajowe,"1,00 Kg",3.0,8.0,2021-07-07
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-07
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-07
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-07
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-07
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-07
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-07
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-07
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-07
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-07
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-07
+Jagoda,krajowe,"1,00 Kg",24.0,25.0,2021-07-07
+Malina,krajowe,"0,50 Kg",6.0,8.0,2021-07-07
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-07
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-07
+Truskawka Malwina,krajowe,"2,00 Kg",14.0,18.0,2021-07-07
+Wiśnia,krajowe,"1,00 Kg",7.0,8.0,2021-07-07
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-07
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-07
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-07
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-07
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-07
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-07
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-07
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-07
+Rukola,import,"100,00 g",3.5,4.0,2021-07-07
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-07
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-07
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-07
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-07
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-07
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-07
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-07
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-07
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-07
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-07
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-07
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-07
+Fasola zielona,krajowe,"1,00 Kg",10.0,14.0,2021-07-07
+Fasola  żółta,krajowe,"1,00 Kg",10.0,14.0,2021-07-07
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-07
+Kapusta czerwona,krajowe,"10,00 Kg",25.0,40.0,2021-07-07
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-07
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-07
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-07
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-07
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-07
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-07
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-07
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-07
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-07
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-07
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-07
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-07
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-07
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-07
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-07
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-07
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-07
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-07
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-07
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-07
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-07
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-07
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-07
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-07
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-07
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-07
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-07
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-07
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-07
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-07
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-07
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-07
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-07
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-07
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-07
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-08
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-08
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-08
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-08
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-08
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-08
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-08
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-08
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-08
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-08
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-08
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-08
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-08
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-08
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-08
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-08
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-08
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-08
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-08
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-08
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-08
+Borówka,krajowe,"250,00 g",8.0,11.0,2021-07-08
+Borówka luz,krajowe,"1,00 Kg",40.0,40.0,2021-07-08
+Czereśnia,krajowe,"1,00 Kg",3.0,8.0,2021-07-08
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-08
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-08
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-08
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-08
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-08
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-08
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-08
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-08
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-08
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-08
+Jagoda,krajowe,"1,00 Kg",24.0,25.0,2021-07-08
+Malina,krajowe,"0,50 Kg",6.0,8.0,2021-07-08
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-08
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-08
+Truskawka Malwina,krajowe,"2,00 Kg",14.0,18.0,2021-07-08
+Wiśnia,krajowe,"1,00 Kg",7.0,8.0,2021-07-08
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-08
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-08
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-08
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-08
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-08
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-08
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-08
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-08
+Rukola,import,"100,00 g",3.5,4.0,2021-07-08
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-08
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-08
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-08
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-08
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-08
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-08
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-08
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-08
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-08
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-08
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-08
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-08
+Fasola zielona,krajowe,"1,00 Kg",10.0,14.0,2021-07-08
+Fasola  żółta,krajowe,"1,00 Kg",10.0,14.0,2021-07-08
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-08
+Kapusta czerwona,krajowe,"10,00 Kg",25.0,40.0,2021-07-08
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-08
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-08
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-08
+Kapusta pekińska ,krajowe,"5,00 Kg",13.0,20.0,2021-07-08
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-08
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-08
+Koper,krajowe,"10,00 szt.",5.0,10.0,2021-07-08
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-08
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-08
+Marchew ,krajowe,"10,00 Kg",18.0,25.0,2021-07-08
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-08
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-08
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-08
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-08
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-08
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-08
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-08
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-08
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-08
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-08
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-08
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-08
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-08
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-08
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-08
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-08
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-08
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-08
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-08
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-08
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-08
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-08
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-08
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-08
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-08
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-09
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-09
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-09
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-09
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-09
+Cytryna Hiszpania,import,"10,00 Kg",50.0,65.0,2021-07-09
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-09
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-09
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-09
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-09
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-09
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-09
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-09
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-09
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-09
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-09
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-09
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-09
+Truskawka Grecja,import,"1,00 Kg",12.0,14.0,2021-07-09
+Winogrono ciemne Chile,import,"7,00 Kg",80.0,90.0,2021-07-09
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-09
+Agrest,krajowe,"1,00 Kg",3.0,5.0,2021-07-09
+Borówka,krajowe,"250,00 g",6.0,8.0,2021-07-09
+Borówka luz,krajowe,"1,00 Kg",24.0,32.0,2021-07-09
+Czereśnia,krajowe,"1,00 Kg",3.0,8.0,2021-07-09
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-09
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-09
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-09
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-09
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-09
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-09
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-09
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-09
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-09
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-09
+Jagoda,krajowe,"1,00 Kg",24.0,25.0,2021-07-09
+Malina,krajowe,"0,50 Kg",6.0,8.0,2021-07-09
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-09
+Truskawka,krajowe,"2,00 Kg",8.0,12.0,2021-07-09
+Truskawka Malwina,krajowe,"2,00 Kg",14.0,18.0,2021-07-09
+Wiśnia,krajowe,"1,00 Kg",7.0,8.0,2021-07-09
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-09
+Cukinia,import,"1,00 Kg",5.0,8.0,2021-07-09
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-09
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-09
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-09
+Papryka Czerwona,import,"5,00 Kg",55.0,65.0,2021-07-09
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-09
+Pomidor Hiszpania gałązka,import,"3,00 Kg",50.0,55.0,2021-07-09
+Rukola,import,"100,00 g",3.5,4.0,2021-07-09
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-09
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-09
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-09
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-09
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-09
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-09
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-09
+Cebula biała,krajowe,"5,00 Kg",17.5,19.99,2021-07-09
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-09
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-09
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-09
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-09
+Fasola zielona,krajowe,"1,00 Kg",9.0,12.0,2021-07-09
+Fasola  żółta,krajowe,"1,00 Kg",9.0,12.0,2021-07-09
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-09
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-07-09
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-09
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-09
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-09
+Kapusta pekińska ,krajowe,"5,00 Kg",15.0,25.0,2021-07-09
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-09
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-09
+Koper,krajowe,"10,00 szt.",7.0,15.0,2021-07-09
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-09
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-09
+Marchew ,krajowe,"10,00 Kg",15.0,22.0,2021-07-09
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-09
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-09
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-09
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-09
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-09
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-09
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-09
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-09
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-09
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-09
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-09
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-09
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-09
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-09
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-09
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-09
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-09
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-09
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-09
+Włoszczyzna ,krajowe,"10,00 szt.",28.0,35.0,2021-07-09
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-09
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-09
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-09
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-09
+Zmieniak młody,krajowe,"15,00 Kg",12.0,20.0,2021-07-09
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-12
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-12
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-12
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-12
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-12
+Brzoskwinia,import,"1,00 Kg",6.0,8.0,2021-07-12
+Brzoskwinia Ufo,import,"5,00 Kg",45.0,50.0,2021-07-12
+Cytryna Argentyna,import,"1,00 Kg",8.0,8.0,2021-07-12
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-12
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-12
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-12
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-12
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-12
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-12
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-12
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-12
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-12
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-12
+Nektarynka,import,"1,00 Kg",7.0,9.0,2021-07-12
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-12
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-12
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-12
+Winogrono Jasne Włoskie,import,"1,00 Kg",9.0,11.0,2021-07-12
+Agrest,krajowe,"1,00 Kg",3.5,6.0,2021-07-12
+Borówka,krajowe,"250,00 g",6.0,8.0,2021-07-12
+Borówka luz,krajowe,"1,00 Kg",20.0,25.0,2021-07-12
+Czereśnia,krajowe,"1,00 Kg",4.0,7.0,2021-07-12
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-12
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-12
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-12
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-12
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-12
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-12
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-12
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-12
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-12
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-12
+Jagoda,krajowe,"1,00 Kg",20.0,23.0,2021-07-12
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-12
+Malina,krajowe,"0,50 Kg",5.0,8.0,2021-07-12
+Truskawka,krajowe,"2,00 Kg",8.0,10.0,2021-07-12
+Truskawka Malwina,krajowe,"2,00 Kg",8.0,10.0,2021-07-12
+Wiśnia,krajowe,"1,00 Kg",6.0,8.0,2021-07-12
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-12
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-12
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-12
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-12
+Papryka Czerwona,import,"5,00 Kg",50.0,58.0,2021-07-12
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-12
+Pomidor Hiszpania gałązka,import,"3,00 Kg",40.0,50.0,2021-07-12
+Rukola,import,"100,00 g",3.5,4.0,2021-07-12
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-12
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-12
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-12
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-12
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-12
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-12
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-12
+Cebula biała,krajowe,"5,00 Kg",17.5,20.0,2021-07-12
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-12
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-12
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-12
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-12
+Fasola zielona,krajowe,"1,00 Kg",6.0,9.0,2021-07-12
+Fasola  żółta,krajowe,"1,00 Kg",3.0,6.0,2021-07-12
+Kalafior,krajowe,"1,00 szt.",3.0,5.0,2021-07-12
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-07-12
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-12
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-12
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-12
+Kapusta pekińska ,krajowe,"5,00 Kg",15.0,25.0,2021-07-12
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-12
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-12
+Koper,krajowe,"10,00 szt.",15.0,20.0,2021-07-12
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-12
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-12
+Marchew ,krajowe,"10,00 Kg",15.0,22.0,2021-07-12
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-12
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-12
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-12
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-12
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-12
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-12
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-12
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-12
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-12
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-12
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-12
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-12
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-12
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-12
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-12
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-12
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-12
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-12
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-12
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-12
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-12
+Ziemniak ,krajowe,"15,00 Kg",6.0,12.0,2021-07-12
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-12
+Zmieniak młody,krajowe,"15,00 Kg",15.0,23.0,2021-07-12
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-13
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-13
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-13
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-13
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-13
+Brzoskwinia,import,"1,00 Kg",6.0,8.0,2021-07-13
+Brzoskwinia Ufo,import,"5,00 Kg",45.0,50.0,2021-07-13
+Cytryna Argentyna,import,"1,00 Kg",8.0,8.0,2021-07-13
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-13
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-13
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-13
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-13
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-13
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-13
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-13
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-13
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-13
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-13
+Nektarynka,import,"1,00 Kg",7.0,9.0,2021-07-13
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-13
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-13
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-13
+Winogrono Jasne Włoskie,import,"1,00 Kg",9.0,11.0,2021-07-13
+Agrest,krajowe,"1,00 Kg",3.5,4.5,2021-07-13
+Borówka,krajowe,"250,00 g",5.0,7.0,2021-07-13
+Borówka luz,krajowe,"1,00 Kg",18.0,22.0,2021-07-13
+Czereśnia,krajowe,"1,00 Kg",5.0,9.0,2021-07-13
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-13
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-13
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-13
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-13
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-13
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-13
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-13
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-13
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-13
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-13
+Jagoda,krajowe,"1,00 Kg",20.0,23.0,2021-07-13
+Jeżyna,krajowe,"250,00 g",10.0,12.5,2021-07-13
+Malina,krajowe,"0,50 Kg",5.0,8.0,2021-07-13
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-13
+Porzeczka czerwona,krajowe,"1,00 Kg",3.0,5.0,2021-07-13
+Truskawka,krajowe,"2,00 Kg",9.0,14.0,2021-07-13
+Truskawka Malwina,krajowe,"2,00 Kg",9.0,14.0,2021-07-13
+Wiśnia,krajowe,"1,00 Kg",3.0,5.0,2021-07-13
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-13
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-13
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-13
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-13
+Papryka Czerwona,import,"5,00 Kg",50.0,58.0,2021-07-13
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-13
+Pomidor Hiszpania gałązka,import,"3,00 Kg",40.0,50.0,2021-07-13
+Rukola,import,"100,00 g",3.5,4.0,2021-07-13
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-13
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-13
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-13
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-13
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-13
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-13
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-13
+Cebula biała,krajowe,"5,00 Kg",17.5,20.0,2021-07-13
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-13
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-13
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-13
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-13
+Fasola zielona,krajowe,"1,00 Kg",6.0,9.0,2021-07-13
+Fasola  żółta,krajowe,"1,00 Kg",3.0,6.0,2021-07-13
+Kalafior,krajowe,"1,00 szt.",1.5,5.0,2021-07-13
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-07-13
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-13
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-13
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-13
+Kapusta pekińska ,krajowe,"5,00 Kg",15.0,25.0,2021-07-13
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-13
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-13
+Koper,krajowe,"10,00 szt.",15.0,20.0,2021-07-13
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-13
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-13
+Marchew ,krajowe,"10,00 Kg",15.0,22.0,2021-07-13
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-13
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-13
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-13
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-13
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-13
+Papryka czerwona,krajowe,"5,00 Kg",40.0,50.0,2021-07-13
+Papryka zielona,krajowe,"5,00 Kg",15.0,30.0,2021-07-13
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-13
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-13
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-13
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-13
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-13
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-13
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-13
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-13
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-13
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-13
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-13
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-13
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-13
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-13
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-13
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-13
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-13
+Zmieniak młody,krajowe,"15,00 Kg",15.0,23.0,2021-07-13
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-14
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-14
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-14
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-14
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-14
+Brzoskwinia,import,"1,00 Kg",6.0,8.0,2021-07-14
+Brzoskwinia Ufo,import,"5,00 Kg",45.0,50.0,2021-07-14
+Cytryna Argentyna,import,"1,00 Kg",8.0,8.0,2021-07-14
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-14
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-14
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-14
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-14
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-14
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-14
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-14
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-14
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-14
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-14
+Nektarynka,import,"1,00 Kg",7.0,9.0,2021-07-14
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-14
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-14
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-14
+Winogrono Jasne Włoskie,import,"1,00 Kg",9.0,11.0,2021-07-14
+Agrest,krajowe,"1,00 Kg",3.5,4.5,2021-07-14
+Borówka,krajowe,"250,00 g",5.0,7.0,2021-07-14
+Borówka luz,krajowe,"1,00 Kg",18.0,22.0,2021-07-14
+Czereśnia,krajowe,"1,00 Kg",5.0,9.0,2021-07-14
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-14
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-14
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-14
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-14
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-14
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-14
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-14
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-14
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-14
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-14
+Jagoda,krajowe,"1,00 Kg",20.0,23.0,2021-07-14
+Jeżyna,krajowe,"250,00 g",10.0,12.5,2021-07-14
+Malina,krajowe,"0,50 Kg",5.0,8.0,2021-07-14
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-14
+Porzeczka czerwona,krajowe,"1,00 Kg",3.0,5.0,2021-07-14
+Truskawka,krajowe,"2,00 Kg",9.0,14.0,2021-07-14
+Truskawka Malwina,krajowe,"2,00 Kg",9.0,14.0,2021-07-14
+Wiśnia,krajowe,"1,00 Kg",3.0,5.0,2021-07-14
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-14
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-14
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-14
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-14
+Papryka Czerwona,import,"5,00 Kg",50.0,58.0,2021-07-14
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-14
+Pomidor Hiszpania gałązka,import,"3,00 Kg",40.0,50.0,2021-07-14
+Rukola,import,"100,00 g",3.5,4.0,2021-07-14
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-14
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-14
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-14
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-14
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-14
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-14
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-14
+Cebula biała,krajowe,"5,00 Kg",17.5,20.0,2021-07-14
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-14
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-14
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-14
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-14
+Fasola zielona,krajowe,"1,00 Kg",6.0,9.0,2021-07-14
+Fasola  żółta,krajowe,"1,00 Kg",3.0,6.0,2021-07-14
+Kalafior,krajowe,"1,00 szt.",1.5,5.0,2021-07-14
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-07-14
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-14
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-14
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-14
+Kapusta pekińska ,krajowe,"5,00 Kg",15.0,25.0,2021-07-14
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-14
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-14
+Koper,krajowe,"10,00 szt.",15.0,20.0,2021-07-14
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-14
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-14
+Marchew ,krajowe,"10,00 Kg",15.0,22.0,2021-07-14
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-14
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-14
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-14
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-14
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-14
+Papryka czerwona,krajowe,"5,00 Kg",40.0,50.0,2021-07-14
+Papryka zielona,krajowe,"5,00 Kg",15.0,30.0,2021-07-14
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-14
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-14
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-14
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-14
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-14
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-14
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-14
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-14
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-14
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-14
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-14
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-14
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-14
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-14
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-14
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-14
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-14
+Zmieniak młody,krajowe,"15,00 Kg",15.0,23.0,2021-07-14
+Ananas,import,"1,00 szt.",5.0,10.0,2021-07-16
+Arbuz,import,"1,00 Kg",3.0,5.0,2021-07-16
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-07-16
+Avocado,import,"1,00 szt.",4.0,6.0,2021-07-16
+Banan,import,"18,00 Kg",75.0,80.0,2021-07-16
+Brzoskwinia,import,"1,00 Kg",6.0,8.0,2021-07-16
+Brzoskwinia Ufo,import,"5,00 Kg",45.0,50.0,2021-07-16
+Cytryna Argentyna,import,"1,00 Kg",8.0,8.0,2021-07-16
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-07-16
+Granat,import,"1,00 szt.",4.0,6.0,2021-07-16
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-07-16
+Gruszka,import,"12,00 Kg",80.0,85.0,2021-07-16
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-07-16
+Limonka,import,"1,00 Kg",12.0,15.0,2021-07-16
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-07-16
+Mango,import,"1,00 szt.",3.5,6.0,2021-07-16
+Melon,import,"1,00 szt.",5.0,8.0,2021-07-16
+Morela,import,"5,00 Kg",60.0,70.0,2021-07-16
+Nektarynka,import,"1,00 Kg",7.0,9.0,2021-07-16
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-07-16
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-07-16
+Winogrono Jasne,import,"5,00 Kg",65.0,75.0,2021-07-16
+Winogrono Jasne Włoskie,import,"1,00 Kg",9.0,11.0,2021-07-16
+Agrest,krajowe,"1,00 Kg",3.5,4.5,2021-07-16
+Borówka,krajowe,"250,00 g",5.0,7.0,2021-07-16
+Borówka luz,krajowe,"1,00 Kg",18.0,22.0,2021-07-16
+Czereśnia,krajowe,"1,00 Kg",5.0,9.0,2021-07-16
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.0,4.0,2021-07-16
+Jabłko Alva,krajowe,"15,00 Kg",20.0,35.0,2021-07-16
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-07-16
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2021-07-16
+Jabłko Empire,krajowe,"15,00 Kg",25.0,50.0,2021-07-16
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-07-16
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-07-16
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2021-07-16
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-07-16
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-07-16
+Jagoda,krajowe,"1,00 Kg",20.0,23.0,2021-07-16
+Jeżyna,krajowe,"250,00 g",10.0,12.5,2021-07-16
+Malina,krajowe,"0,50 Kg",5.0,8.0,2021-07-16
+Malina,krajowe,"250,00 g",3.5,4.5,2021-07-16
+Porzeczka czerwona,krajowe,"1,00 Kg",3.0,5.0,2021-07-16
+Truskawka,krajowe,"2,00 Kg",9.0,14.0,2021-07-16
+Truskawka Malwina,krajowe,"2,00 Kg",9.0,14.0,2021-07-16
+Wiśnia,krajowe,"1,00 Kg",3.0,5.0,2021-07-16
+Batat,import,"1,00 Kg",8.0,10.0,2021-07-16
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-07-16
+Imbir,import,"1,00 Kg",18.0,20.0,2021-07-16
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-07-16
+Papryka Czerwona,import,"5,00 Kg",50.0,58.0,2021-07-16
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-07-16
+Pomidor Hiszpania gałązka,import,"3,00 Kg",40.0,50.0,2021-07-16
+Rukola,import,"100,00 g",3.5,4.0,2021-07-16
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-07-16
+Sałata mix,import,"150,00 g",3.5,4.0,2021-07-16
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-07-16
+Bób,krajowe,"1,00 Kg",5.0,8.0,2021-07-16
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-07-16
+Brokuł,krajowe,"1,00 szt.",2.0,3.0,2021-07-16
+Burak młody cięty,krajowe,"10,00 Kg",10.0,30.0,2021-07-16
+Cebula biała,krajowe,"5,00 Kg",17.5,20.0,2021-07-16
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-07-16
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-07-16
+Chrzan,krajowe,"5,00 Kg",50.0,70.0,2021-07-16
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-07-16
+Fasola zielona,krajowe,"1,00 Kg",6.0,9.0,2021-07-16
+Fasola  żółta,krajowe,"1,00 Kg",3.0,6.0,2021-07-16
+Kalafior,krajowe,"1,00 szt.",1.5,5.0,2021-07-16
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-07-16
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,4.0,2021-07-16
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",7.0,7.0,2021-07-16
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-07-16
+Kapusta pekińska ,krajowe,"5,00 Kg",15.0,25.0,2021-07-16
+Kapusta włoska,krajowe,"1,00 szt.",8.0,10.0,2021-07-16
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-07-16
+Koper,krajowe,"10,00 szt.",15.0,20.0,2021-07-16
+Koper do kiszenia,krajowe,"10,00 szt.",12.0,20.0,2021-07-16
+Kukurydza,krajowe,"1,00 szt.",3.0,3.0,2021-07-16
+Marchew ,krajowe,"10,00 Kg",15.0,22.0,2021-07-16
+Nać Pietruszki,krajowe,"10,00 szt.",8.0,14.0,2021-07-16
+Ogórek,krajowe,"5,00 Kg",7.5,13.0,2021-07-16
+Ogórek kiszeniak,krajowe,"1,00 Kg",2.0,4.0,2021-07-16
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,7.0,2021-07-16
+Ogórek małosolny,krajowe,"1,00 Kg",11.0,11.0,2021-07-16
+Papryka czerwona,krajowe,"5,00 Kg",40.0,50.0,2021-07-16
+Papryka zielona,krajowe,"5,00 Kg",15.0,30.0,2021-07-16
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-07-16
+Pietruszka,krajowe,"5,00 Kg",45.0,60.0,2021-07-16
+Pietruszka z nacią,krajowe,"10,00 szt.",22.0,28.0,2021-07-16
+Pomidor,krajowe,"6,00 Kg",15.0,25.0,2021-07-16
+Pomidor malinowy,krajowe,"6,00 Kg",20.0,30.0,2021-07-16
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-07-16
+Rabarbar,krajowe,"5,00 Kg",10.0,16.0,2021-07-16
+Rzodkiewka,krajowe,"1,00 szt.",1.0,1.5,2021-07-16
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-07-16
+Seler,krajowe,"5,00 Kg",15.0,20.0,2021-07-16
+Seler z nacią,krajowe,"10,00 szt.",22.0,25.0,2021-07-16
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-07-16
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-07-16
+Szparagi,krajowe,"0,50 Kg",6.0,8.0,2021-07-16
+Włoszczyzna młoda,krajowe,"10,00 szt.",25.0,35.0,2021-07-16
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-07-16
+Ziemniak młody drobny,krajowe,"15,00 Kg",8.0,15.0,2021-07-16
+Zmieniak młody,krajowe,"15,00 Kg",15.0,23.0,2021-07-16
+Ananas,import,"1,00 szt.",5.0,10.0,2021-08-13
+Arbuz,import,"1,00 Kg",2.0,2.8,2021-08-13
+Arbuz bezpestkowy,import,"1,00 Kg",3.7,4.0,2021-08-13
+Avocado,import,"1,00 szt.",4.0,6.0,2021-08-13
+Banan,import,"18,00 Kg",60.0,65.0,2021-08-13
+Brzoskwinia,import,"1,00 Kg",6.0,8.0,2021-08-13
+Brzoskwinia Ufo,import,"5,00 Kg",40.0,50.0,2021-08-13
+Cytryna Argentyna,import,"1,00 Kg",8.0,8.0,2021-08-13
+Czereśnia,import,"1,00 Kg",22.0,25.0,2021-08-13
+Granat,import,"1,00 szt.",4.0,6.0,2021-08-13
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2021-08-13
+Gruszka,import,"10,00 Kg",60.0,65.0,2021-08-13
+Kiwi koszyk,import,"1,00 Kg",11.0,13.0,2021-08-13
+Limonka,import,"1,00 Kg",12.0,15.0,2021-08-13
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,90.0,2021-08-13
+Mango,import,"1,00 szt.",3.5,6.0,2021-08-13
+Melon,import,"1,00 szt.",5.0,8.0,2021-08-13
+Morela,import,"5,00 Kg",50.0,60.0,2021-08-13
+Nektarynka,import,"1,00 Kg",7.0,9.0,2021-08-13
+Pomarancza Hiszpania,import,"10,00 Kg",60.0,70.0,2021-08-13
+Śliwka,import,"5,00 Kg",55.0,60.0,2021-08-13
+Winogrono Jasne,import,"5,00 Kg",45.0,50.0,2021-08-13
+Winogrono Jasne Włoskie,import,"1,00 Kg",9.0,11.0,2021-08-13
+Winogrono rodzynkowe,import,"5,00 Kg",50.0,55.0,2021-08-13
+Borówka,krajowe,"250,00 g",3.0,4.0,2021-08-13
+Borówka luz,krajowe,"1,00 Kg",9.0,13.0,2021-08-13
+Brzoskwinia,krajowe,"1,00 Kg",3.0,6.0,2021-08-13
+Czereśnia,krajowe,"1,00 Kg",8.0,12.0,2021-08-13
+Jabłko Alva,krajowe,"15,00 Kg",20.0,30.0,2021-08-13
+Jabłko Antonówka,krajowe,"15,00 Kg",25.0,35.0,2021-08-13
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2021-08-13
+Jabłko Delikates,krajowe,"15,00 Kg",25.0,35.0,2021-08-13
+Jabłko Geneva Młode,krajowe,"15,00 Kg",20.0,35.0,2021-08-13
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,25.0,2021-08-13
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2021-08-13
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,40.0,2021-08-13
+Jabłko Papierówka,krajowe,"15,00 Kg",25.0,45.0,2021-08-13
+Jabłko Paulared,krajowe,"15,00 Kg",25.0,35.0,2021-08-13
+Jabłko Piros,krajowe,"15,00 Kg",20.0,35.0,2021-08-13
+Jabłko Prince,krajowe,"15,00 Kg",15.0,25.0,2021-08-13
+Jabłko Szara Reneta,krajowe,"15,00 Kg",35.0,60.0,2021-08-13
+Jagoda,krajowe,"1,00 Kg",20.0,25.0,2021-08-13
+Jeżyna,krajowe,"250,00 g",4.0,5.0,2021-08-13
+Malina,krajowe,"0,50 Kg",10.0,11.0,2021-08-13
+Malina,krajowe,"250,00 g",6.0,7.0,2021-08-13
+Morela,krajowe,"1,00 Kg",5.0,6.0,2021-08-13
+Porzeczka czerwona,krajowe,"1,00 Kg",3.0,5.0,2021-08-13
+Śliwka Kalipso,krajowe,"1,00 Kg",3.0,4.0,2021-08-13
+Śliwka Katinka,krajowe,"1,00 Kg",2.5,4.0,2021-08-13
+Śliwka Lepotica,krajowe,"1,00 Kg",2.0,3.0,2021-08-13
+Śliwka Rana,krajowe,"1,00 Kg",2.5,5.0,2021-08-13
+Śliwka Węgierka Dąbrowicka,krajowe,"1,00 Kg",3.0,4.0,2021-08-13
+Truskawka,krajowe,"2,00 Kg",20.0,25.0,2021-08-13
+Wiśnia,krajowe,"1,00 Kg",2.6,3.4,2021-08-13
+Wiśnia Groniasta Deserowa,krajowe,"1,00 Kg",5.0,7.0,2021-08-13
+Batat,import,"1,00 Kg",8.0,10.0,2021-08-13
+Cykoria,import,"1,00 szt.",6.0,6.0,2021-08-13
+Imbir,import,"1,00 Kg",18.0,20.0,2021-08-13
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2021-08-13
+Pomidor Cherry Hiszpania,import,"250,00 g",5.0,6.0,2021-08-13
+Pomidor Hiszpania gałązka,import,"3,00 Kg",30.0,35.0,2021-08-13
+Rukola,import,"100,00 g",3.5,4.0,2021-08-13
+Sałata lodowa,import,"1,00 szt.",2.5,3.0,2021-08-13
+Sałata mix,import,"150,00 g",3.5,4.0,2021-08-13
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2021-08-13
+Bakłażan,krajowe,"5,00 Kg",15.0,25.0,2021-08-13
+Bób,krajowe,"1,00 Kg",6.0,8.0,2021-08-13
+Botwinka,krajowe,"10,00 szt.",15.0,25.0,2021-08-13
+Brokuł,krajowe,"1,00 szt.",1.5,3.0,2021-08-13
+Burak młody cięty,krajowe,"10,00 Kg",8.0,16.0,2021-08-13
+Cebula biała,krajowe,"5,00 Kg",12.0,18.0,2021-08-13
+Cebula dymka ze szczypiorem młoda,krajowe,"1,00 szt.",1.5,2.5,2021-08-13
+Cebula z łuską,krajowe,"15,00 Kg",18.0,25.0,2021-08-13
+Chrzan,krajowe,"5,00 Kg",50.0,75.0,2021-08-13
+Cukinia,krajowe,"5,00 Kg",10.0,18.0,2021-08-13
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2021-08-13
+Dynia,krajowe,"1,00 Kg",2.0,2.5,2021-08-13
+Fasola zielona,krajowe,"1,00 Kg",3.0,5.0,2021-08-13
+Fasola  żółta,krajowe,"1,00 Kg",3.0,5.0,2021-08-13
+Kalafior,krajowe,"1,00 szt.",3.0,6.0,2021-08-13
+Kapusta czerwona,krajowe,"10,00 Kg",15.0,25.0,2021-08-13
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,3.0,2021-08-13
+Kapusta kwaszona młoda,krajowe,"1,00 Kg",4.0,5.0,2021-08-13
+Kapusta młoda,krajowe,"1,00 szt.",1.5,3.0,2021-08-13
+Kapusta pekińska ,krajowe,"5,00 Kg",10.0,22.0,2021-08-13
+Kapusta włoska,krajowe,"1,00 szt.",3.0,5.0,2021-08-13
+Kapusta worek,krajowe,"20,00 Kg",30.0,40.0,2021-08-13
+Koper,krajowe,"10,00 szt.",15.0,25.0,2021-08-13
+Koper do kiszenia,krajowe,"10,00 szt.",8.0,15.0,2021-08-13
+Kukurydza,krajowe,"1,00 szt.",2.0,3.0,2021-08-13
+Marchew ,krajowe,"10,00 Kg",10.0,16.0,2021-08-13
+Nać Pietruszki,krajowe,"10,00 szt.",6.0,12.0,2021-08-13
+Ogórek,krajowe,"5,00 Kg",15.0,20.0,2021-08-13
+Ogórek kiszeniak,krajowe,"1,00 Kg",4.0,5.0,2021-08-13
+Ogórek kiszony,krajowe,"1,00 Kg",6.0,6.0,2021-08-13
+Ogórek kiszony młody,krajowe,"1,00 Kg",7.0,7.0,2021-08-13
+Ogórek małosolny,krajowe,"1,00 Kg",7.0,7.0,2021-08-13
+Papryka Blondy,krajowe,"5,00 Kg",15.0,20.0,2021-08-13
+Papryka czerwona,krajowe,"5,00 Kg",15.0,22.0,2021-08-13
+Papryka zielona,krajowe,"5,00 Kg",10.0,20.0,2021-08-13
+Papryka żółta ,krajowe,"5,00 Kg",15.0,22.0,2021-08-13
+Pieczarka,krajowe,"4,00 Kg",28.0,38.0,2021-08-13
+Pietruszka,krajowe,"5,00 Kg",30.0,40.0,2021-08-13
+Pietruszka z nacią,krajowe,"10,00 szt.",15.0,25.0,2021-08-13
+Pomidor,krajowe,"6,00 Kg",30.0,40.0,2021-08-13
+Pomidor malinowy,krajowe,"6,00 Kg",30.0,40.0,2021-08-13
+Pomidor polny,krajowe,"18,00 Kg",50.0,65.0,2021-08-13
+Por,krajowe,"10,00 szt.",10.0,20.0,2021-08-13
+Rabarbar,krajowe,"5,00 Kg",15.0,17.5,2021-08-13
+Rzodkiewka,krajowe,"1,00 szt.",1.4,1.8,2021-08-13
+Sałata,krajowe,"1,00 szt.",2.0,3.0,2021-08-13
+Sałata lodowa,krajowe,"1,00 szt.",2.5,3.5,2021-08-13
+Seler,krajowe,"5,00 Kg",20.0,25.0,2021-08-13
+Seler z nacią,krajowe,"10,00 szt.",15.0,22.0,2021-08-13
+Szczaw,krajowe,"1,00 szt.",1.0,2.0,2021-08-13
+Szczypiorek,krajowe,"10,00 szt.",8.0,11.0,2021-08-13
+Włoszczyzna młoda,krajowe,"10,00 szt.",20.0,30.0,2021-08-13
+Zestaw do kiszenia,krajowe,"1,00 szt.",2.0,2.5,2021-08-13
+Zmieniak młody,krajowe,"15,00 Kg",8.0,15.0,2021-08-13
+Ananas,import,"1,00 szt.",5.0,10.0,2022-05-04
+Avocado,import,"1,00 szt.",4.0,6.0,2022-05-04
+Banan,import,"18,00 Kg",95.0,105.0,2022-05-04
+Borówka,import,"125,00 g",6.0,7.0,2022-05-04
+Cytryna Hiszpania,import,"10,00 Kg",60.0,70.0,2022-05-04
+Granat,import,"1,00 szt.",4.0,6.0,2022-05-04
+Grejpfrut czerwony,import,"17,00 Kg",110.0,120.0,2022-05-04
+Gruszka Konferencja,import,"12,00 Kg",70.0,75.0,2022-05-04
+Kiwi koszyk,import,"1,00 Kg",8.0,10.0,2022-05-04
+Limonka,import,"1,00 Kg",12.0,15.0,2022-05-04
+Malina,import,"125,00 g",10.0,12.0,2022-05-04
+Mandarynka,import,"10,00 Kg",50.0,70.0,2022-05-04
+Mandarynka Hiszpania,import,"10,00 Kg",60.0,80.0,2022-05-04
+Mango,import,"1,00 szt.",3.5,6.0,2022-05-04
+Melon,import,"1,00 szt.",8.0,10.0,2022-05-04
+Pomarańcza,import,"1,00 Kg",6.0,7.0,2022-05-04
+Truskawka,import,"1,00 Kg",10.0,13.0,2022-05-04
+Winogrono,import,"8,20 Kg",170.0,175.0,2022-05-04
+Winogrono,import,"4,50 Kg",75.0,85.0,2022-05-04
+Winogrono Jasne,import,"4,50 Kg",70.0,80.0,2022-05-04
+Winogrono różowe,import,"8,20 Kg",100.0,110.0,2022-05-04
+Gruszka  Konferencja,krajowe,"1,00 Kg",2.5,5.0,2022-05-04
+Jabłko Champion,krajowe,"15,00 Kg",15.0,30.0,2022-05-04
+Jabłko Cortland,krajowe,"15,00 Kg",25.0,50.0,2022-05-04
+Jabłko Jonagored,krajowe,"15,00 Kg",15.0,30.0,2022-05-04
+Jabłko Ligol,krajowe,"15,00 Kg",15.0,30.0,2022-05-04
+Jabłko Lobo,krajowe,"15,00 Kg",25.0,50.0,2022-05-04
+Jabłko Prince,krajowe,"15,00 Kg",15.0,30.0,2022-05-04
+Jabłko Szara Reneta,krajowe,"15,00 Kg",20.0,40.0,2022-05-04
+Batat,import,"1,00 Kg",6.0,8.0,2022-05-04
+Brokuł,import,"1,00 szt.",4.5,5.0,2022-05-04
+Cukinia,import,"1,00 Kg",7.0,8.0,2022-05-04
+Cykoria,import,"1,00 szt.",6.0,6.0,2022-05-04
+Imbir,import,"1,00 Kg",13.0,18.0,2022-05-04
+Papryka Chili,import,"1,00 Kg",17.0,23.0,2022-05-04
+Papryka Czerwona,import,"1,00 Kg",9.0,11.0,2022-05-04
+Pomidor Cherry Hiszpania,import,"250,00 g",6.0,7.0,2022-05-04
+Pomidor Turcja,import,"1,00 Kg",11.0,14.0,2022-05-04
+Rukola,import,"100,00 g",4.0,5.0,2022-05-04
+Rzodkiewka,import,"1,00 szt.",1.7,2.2,2022-05-04
+Sałata,import,"1,00 szt.",2.6,3.8,2022-05-04
+Sałata lodowa,import,"1,00 szt.",8.0,10.0,2022-05-04
+Sałata mix,import,"150,00 g",4.0,4.5,2022-05-04
+Seler naciowy,import,"1,00 szt.",3.0,4.0,2022-05-04
+Ziemniak Cypr,import,"1,00 Kg",3.5,3.75,2022-05-04
+Botwinka,krajowe,"10,00 szt.",30.0,40.0,2022-05-04
+Brukselka,krajowe,"1,00 Kg",5.5,6.5,2022-05-04
+Burak ,krajowe,"10,00 Kg",16.0,20.0,2022-05-04
+Cebula z łuską,krajowe,"15,00 Kg",15.0,24.0,2022-05-04
+Chrzan,krajowe,"5,00 Kg",50.0,55.0,2022-05-04
+Czosnek,krajowe,"1,00 szt.",1.0,3.0,2022-05-04
+Dynia,krajowe,"1,00 Kg",2.5,5.0,2022-05-04
+kapusta,krajowe,"1,00 szt.",1.5,3.0,2022-05-04
+Kapusta czerwona,krajowe,"10,00 Kg",20.0,30.0,2022-05-04
+Kapusta kwaszona ,krajowe,"1,00 Kg",3.0,3.0,2022-05-04
+Kapusta pekińska ,krajowe,"5,00 Kg",25.0,35.0,2022-05-04
+Kapusta włoska,krajowe,"1,00 szt.",5.0,8.0,2022-05-04
+Kapusta worek,krajowe,"20,00 Kg",28.0,40.0,2022-05-04
+Koper,krajowe,"10,00 szt.",16.0,22.0,2022-05-04
+Marchew ,krajowe,"10,00 Kg",12.0,17.0,2022-05-04
+Nać Pietruszki,krajowe,"10,00 szt.",10.0,12.0,2022-05-04
+Ogórek,krajowe,"5,00 Kg",30.0,40.0,2022-05-04
+Ogórek kiszeniak,krajowe,"1,00 Kg",7.0,9.0,2022-05-04
+Ogórek kiszony,krajowe,"1,00 Kg",6.5,7.0,2022-05-04
+Ogórek małosolny,krajowe,"1,00 Kg",16.0,17.0,2022-05-04
+Pieczarka,krajowe,"3,00 Kg",22.0,24.0,2022-05-04
+Pietruszka,krajowe,"5,00 Kg",15.0,20.0,2022-05-04
+Pomidor,krajowe,"6,00 Kg",35.0,50.0,2022-05-04
+Pomidor malinowy,krajowe,"6,00 Kg",45.0,55.0,2022-05-04
+Por,krajowe,"5,00 Kg",15.0,20.0,2022-05-04
+Rzodkiewka,krajowe,"1,00 szt.",1.5,2.3,2022-05-04
+Sałata,krajowe,"1,00 szt.",2.5,3.5,2022-05-04
+Seler,krajowe,"5,00 Kg",12.0,17.0,2022-05-04
+Szczypiorek,krajowe,"10,00 szt.",10.0,15.0,2022-05-04
+Włoszczyzna ,krajowe,"10,00 szt.",24.0,34.0,2022-05-04
+Ziemniak,krajowe,"15,00 Kg",14.0,19.0,2022-05-04

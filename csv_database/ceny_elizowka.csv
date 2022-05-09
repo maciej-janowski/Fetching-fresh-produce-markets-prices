@@ -1,0 +1,184 @@
+product,measure,lowest_price,highest_price,date
+bakłażan,kg,2.5,4.0,2021-08-13
+bataty,kg,8.0,10.0,2021-08-13
+bób,kg,13.0,13.0,2021-08-13
+botwina,pęczek,3.0,3.0,2021-08-13
+brokuł,szt,4.0,4.5,2021-08-13
+burak czerwony młody,kg,1.6,3.0,2021-08-13
+cebula,kg,1.67,1.8,2021-08-13
+cebula cukrowa,kg,3.4,3.5,2021-08-13
+cebula czerwona,kg,3.0,4.0,2021-08-13
+cebula młoda,kg,2.6,2.6,2021-08-13
+chrzan,kg,10.0,12.0,2021-08-13
+cukinia,kg,2.0,3.0,2021-08-13
+cykoria,500 g,5.5,6.0,2021-08-13
+czosnek,kg,15.0,15.0,2021-08-13
+czosnek,szt,1.2,1.6,2021-08-13
+fasola szparagowa żółta,kg,6.0,6.0,2021-08-13
+jarmuż,tacka,5.0,5.0,2021-08-13
+kalafior,szt,4.0,4.5,2021-08-13
+kalarepa,szt,1.5,1.5,2021-08-13
+kapusta biała - młoda,szt,2.0,3.0,2021-08-13
+kapusta czerwona,kg,2.5,3.0,2021-08-13
+kapusta kiszona,kg,3.34,4.0,2021-08-13
+kapusta pekińska,kg,3.0,3.6,2021-08-13
+kapusta włoska,szt,3.5,3.5,2021-08-13
+koper,pęczek,1.2,1.5,2021-08-13
+kukurydza,szt,2.0,2.0,2021-08-13
+marchew młoda,kg,1.5,2.5,2021-08-13
+natka z pietruszki,pęczek,1.2,1.2,2021-08-13
+ogórek długi kraj.,kg,3.6,4.2,2021-08-13
+ogórek kiszony,kg,6.0,6.34,2021-08-13
+ogórek krótki kraj.,kg,4.0,4.5,2021-08-13
+papryka czerwona,kg,3.4,4.4,2021-08-13
+papryka pikantna,kg,10.0,16.0,2021-08-13
+papryka zielona,kg,2.6,4.4,2021-08-13
+papryka żółta,kg,3.4,4.4,2021-08-13
+pietruszka,kg,8.0,8.0,2021-08-13
+pomidor koktajlowy,kg,9.0,10.0,2021-08-13
+pomidor kraj.,kg,4.17,5.0,2021-08-13
+pomidor malinowy kraj.,kg,5.0,5.67,2021-08-13
+por,szt,2.0,2.0,2021-08-13
+roszponka,100 g,3.5,4.0,2021-08-13
+rucola,100 g,3.5,4.0,2021-08-13
+rzepa biała,kg,4.0,4.0,2021-08-13
+rzodkiewka,pęczek,1.5,1.8,2021-08-13
+sałata lodowa,szt,4.0,4.5,2021-08-13
+sałata masłowa,szt,2.5,2.5,2021-08-13
+sałata mix,100 g,3.5,4.0,2021-08-13
+sałata rzymska,szt,5.0,6.0,2021-08-13
+seler,kg,3.2,4.0,2021-08-13
+seler naciowy,szt,3.5,4.0,2021-08-13
+szczypior,szt,1.2,1.4,2021-08-13
+szpinak baby,100 g,3.5,4.0,2021-08-13
+słonecznik,szt,2.5,3.5,2021-08-13
+włoszczyzna,pęczek,3.0,3.5,2021-08-13
+ziemniak młody kraj.,kg,1.0,1.2,2021-08-13
+ananas,szt,4.0,5.5,2021-08-13
+arbuz,kg,2.0,3.0,2021-08-13
+awokado,szt,5.5,6.0,2021-08-13
+banany,kg,3.06,3.8,2021-08-13
+borówka amerykańska,0.25 kg,3.5,4.0,2021-08-13
+borówka amerykańska,kg,12.0,13.0,2021-08-13
+brzoskwinie imp.,kg,7.5,8.0,2021-08-13
+brzoskwinie kraj.,kg,4.0,4.0,2021-08-13
+cytryny,kg,7.0,8.3,2021-08-13
+czereśnie kraj.,kg,9.0,9.0,2021-08-13
+granaty,szt,5.0,7.0,2021-08-13
+grapefruity czerwone,kg,5.5,7.0,2021-08-13
+imbir,kg,16.0,16.0,2021-08-13
+jabłka Genewa,kg,2.5,3.5,2021-08-13
+jabłka Oliwka,kg,2.5,3.5,2021-08-13
+jabłka Piros,kg,2.5,3.5,2021-08-13
+jeżyny,250 g,4.0,4.0,2021-08-13
+kiwi,kg,9.0,11.5,2021-08-13
+limonka,kg,17.0,17.5,2021-08-13
+malina,250g,9.0,10.0,2021-08-13
+mandarynki,kg,8.0,8.0,2021-08-13
+mango,szt,4.0,4.0,2021-08-13
+melon,szt,6.0,6.0,2021-08-13
+morela,kg,8.0,9.5,2021-08-13
+morela kraj.,kg,8.66,9.5,2021-08-13
+nektarynki,kg,8.0,9.0,2021-08-13
+pomarańcze,kg,6.0,6.5,2021-08-13
+porzeczki czarne,500 g,5.0,5.0,2021-08-13
+porzeczki czerwone,500 g,3.5,3.5,2021-08-13
+śliwka czarna import.,kg,5.5,5.5,2021-08-13
+śliwka Early Blue,kg,2.5,3.0,2021-08-13
+śliwka Jerozolimka,kg,2.5,3.0,2021-08-13
+śliwka Lepotica,kg,2.5,3.0,2021-08-13
+śliwka Ulena,kg,2.5,3.0,2021-08-13
+śliwka żółta import.,kg,6.0,6.0,2021-08-13
+śliwki Cacańska Rana,kg,2.5,4.0,2021-08-13
+truskawki,kg,14.0,14.0,2021-08-13
+winogrona białe,kg,5.4,10.0,2021-08-13
+winogrona czarne,kg,12.0,13.0,2021-08-13
+winogrona różowe,kg,10.0,12.0,2021-08-13
+wiśnie,kg,3.66,4.0,2021-08-13
+bakłażan,kg,8.0,10.0,2022-04-29
+bataty,kg,7.0,8.0,2022-04-29
+brokuł,szt,5.0,7.5,2022-04-29
+burak czerwony,kg,2.2,2.4,2022-04-29
+cebula,kg,1.46,1.86,2022-04-29
+cebula cukrowa,kg,3.5,4.0,2022-04-29
+cebula czerwona,kg,3.0,3.4,2022-04-29
+cukinia,kg,8.0,12.0,2022-04-29
+cykoria,500 g,5.5,7.0,2022-04-29
+czosnek,kg,14.0,16.0,2022-04-29
+czosnek,szt,1.4,1.6,2022-04-29
+jarmuż,tacka,5.0,5.0,2022-04-29
+kalafior,szt,7.0,8.0,2022-04-29
+kalarepa,szt,2.4,3.5,2022-04-29
+kapusta biała,kg,2.0,3.5,2022-04-29
+kapusta czerwona,kg,3.2,3.4,2022-04-29
+kapusta kiszona,kg,2.4,3.0,2022-04-29
+kapusta młoda importowana,szt,4.5,6.0,2022-04-29
+kapusta pekińska,kg,6.0,7.0,2022-04-29
+kapusta włoska,kg,2.67,2.7,2022-04-29
+kapusta włoska,szt,5.0,7.5,2022-04-29
+koper,pęczek,1.6,2.0,2022-04-29
+marchew,kg,1.8,1.8,2022-04-29
+natka z pietruszki,pęczek,1.2,1.5,2022-04-29
+ogórek długi kraj.,kg,7.0,8.0,2022-04-29
+ogórek gruntowy krajowy,kg,9.0,10.0,2022-04-29
+ogórek kiszony,kg,5.3,6.67,2022-04-29
+papryka czerwona,kg,9.0,11.6,2022-04-29
+papryka pikantna,kg,30.0,40.0,2022-04-29
+papryka zielona,kg,12.0,15.0,2022-04-29
+papryka żółta,kg,11.0,12.0,2022-04-29
+pietruszka,kg,4.4,5.6,2022-04-29
+pomidor koktajlowy,kg,20.0,26.0,2022-04-29
+pomidor kraj.,kg,9.17,13.0,2022-04-29
+pomidor malinowy kraj.,kg,9.0,10.0,2022-04-29
+por,kg,2.7,4.0,2022-04-29
+por,szt,1.2,1.36,2022-04-29
+roszponka,100 g,3.75,4.0,2022-04-29
+rucola,100 g,3.75,4.0,2022-04-29
+rzepa biała,kg,3.8,4.5,2022-04-29
+rzepa czarna,kg,4.0,4.5,2022-04-29
+rzodkiewka kraj.,pęczek,1.84,2.2,2022-04-29
+sałata lodowa,szt,6.0,10.0,2022-04-29
+sałata masłowa,szt,2.5,3.0,2022-04-29
+sałata mix,100 g,3.75,4.5,2022-04-29
+sałata rzymska,szt,6.0,7.5,2022-04-29
+seler,kg,3.4,3.4,2022-04-29
+seler naciowy,szt,4.0,4.5,2022-04-29
+szczypior,szt,1.5,1.6,2022-04-29
+szparagi,pęczek,15.0,17.0,2022-04-29
+szpinak baby,100 g,3.4,3.75,2022-04-29
+włoszczyzna,pęczek,3.0,3.5,2022-04-29
+ziemniak,kg,1.13,1.2,2022-04-29
+ziemniak młody importowany,kg,3.5,4.0,2022-04-29
+ananas,szt,5.0,6.5,2022-04-29
+awokado,szt,3.5,4.0,2022-04-29
+banany,kg,5.16,6.0,2022-04-29
+cytryny,kg,5.4,6.5,2022-04-29
+granaty,szt,3.5,6.0,2022-04-29
+grapefruity czerwone,kg,4.8,6.2,2022-04-29
+gruszka Lukasówka,kg,2.0,3.5,2022-04-29
+gruszka Xenia,kg,1.5,4.0,2022-04-29
+gruszki Konferencja,kg,5.83,6.0,2022-04-29
+imbir,kg,16.0,17.0,2022-04-29
+jabłka Boscoop,kg,1.33,2.66,2022-04-29
+jabłka Cortland,kg,3.0,3.33,2022-04-29
+jabłka Eliza,kg,1.66,2.0,2022-04-29
+Jabłka Empire,kg,1.33,2.0,2022-04-29
+jabłka Gala,kg,1.66,1.66,2022-04-29
+jabłka Gloster,kg,1.66,1.66,2022-04-29
+jabłka Golden Delicious,kg,2.0,2.0,2022-04-29
+jabłka Ligol,kg,1.33,2.0,2022-04-29
+jabłka Lobo,kg,1.66,3.34,2022-04-29
+jabłka Mutsu,kg,2.0,2.0,2022-04-29
+jabłka Prince,kg,1.47,2.0,2022-04-29
+jabłka Rubin,kg,1.33,2.33,2022-04-29
+jabłka Sampion,kg,1.67,2.0,2022-04-29
+kiwi,kg,6.0,8.6,2022-04-29
+limonka,kg,17.5,19.0,2022-04-29
+mandarynki,kg,4.6,6.6,2022-04-29
+mango,szt,4.5,5.0,2022-04-29
+melon,szt,9.0,10.0,2022-04-29
+pomarańcze,kg,4.0,6.6,2022-04-29
+truskawki imp.,kg,8.5,12.0,2022-04-29
+winogrona białe,kg,14.5,15.8,2022-04-29
+winogrona różowe,kg,14.0,15.85,2022-04-29
+żurawina,kg,20.0,20.0,2022-04-29
